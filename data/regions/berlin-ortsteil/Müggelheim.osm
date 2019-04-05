@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="410443">
+    <member type="way" ref="191002364" role="outer"/>
+    <member type="way" ref="50336559" role="outer"/>
+    <member type="way" ref="97159164" role="outer"/>
+    <member type="way" ref="44017860" role="outer"/>
+    <member type="way" ref="44017864" role="outer"/>
+    <member type="way" ref="44020348" role="outer"/>
+    <member type="way" ref="44017863" role="outer"/>
+    <member type="way" ref="97159165" role="outer"/>
+    <member type="way" ref="315221753" role="outer"/>
+    <member type="node" ref="1665054453" role="label"/>
+    <tag k="ref" v="0914"/>
+    <tag k="name" v="Müggelheim"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="name:ru" v="Мюггельхайм"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q644380"/>
+    <tag k="wikipedia" v="de:Berlin-Müggelheim"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Berliner Urstromtal"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="32524"/>
+  </relation>
+</osm>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="55763">
+    <member type="way" ref="24793695" role="outer"/>
+    <member type="way" ref="175726485" role="outer"/>
+    <member type="way" ref="97503997" role="outer"/>
+    <member type="way" ref="432785721" role="outer"/>
+    <member type="way" ref="50336555" role="outer"/>
+    <member type="way" ref="269323291" role="outer"/>
+    <member type="way" ref="188569531" role="outer"/>
+    <member type="way" ref="97495030" role="outer"/>
+    <member type="way" ref="191375282" role="outer"/>
+    <member type="way" ref="38318544" role="outer"/>
+    <member type="way" ref="280533064" role="outer"/>
+    <member type="way" ref="460523348" role="outer"/>
+    <member type="way" ref="269325560" role="outer"/>
+    <member type="way" ref="318031549" role="outer"/>
+    <member type="way" ref="318031548" role="outer"/>
+    <member type="way" ref="328336972" role="outer"/>
+    <member type="way" ref="328336970" role="outer"/>
+    <member type="way" ref="97506329" role="outer"/>
+    <member type="way" ref="26139142" role="outer"/>
+    <member type="way" ref="97504006" role="outer"/>
+    <member type="way" ref="269340408" role="outer"/>
+    <member type="way" ref="316820286" role="outer"/>
+    <member type="way" ref="152442786" role="outer"/>
+    <member type="way" ref="269336017" role="outer"/>
+    <member type="way" ref="269336018" role="outer"/>
+    <member type="way" ref="269336386" role="outer"/>
+    <member type="way" ref="269336384" role="outer"/>
+    <member type="way" ref="97621573" role="outer"/>
+    <member type="way" ref="97504001" role="outer"/>
+    <member type="way" ref="24793702" role="outer"/>
+    <member type="node" ref="667712670" role="admin_centre"/>
+    <member type="node" ref="262328057" role="label"/>
+    <tag k="ref" v="0201"/>
+    <tag k="name" v="Friedrichshain"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Фридрихсхайн"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q317056"/>
+    <tag k="wikipedia" v="de:Berlin-Friedrichshain"/>
+    <tag k="short_name" v="Fhain"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Berliner Urstromtal"/>
+  </relation>
+</osm>

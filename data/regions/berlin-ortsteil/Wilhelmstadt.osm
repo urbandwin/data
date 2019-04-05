@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="164788">
+    <member type="way" ref="49801636" role="outer"/>
+    <member type="way" ref="25467349" role="outer"/>
+    <member type="way" ref="316702560" role="outer"/>
+    <member type="way" ref="96986376" role="outer"/>
+    <member type="way" ref="304488113" role="outer"/>
+    <member type="way" ref="49801643" role="outer"/>
+    <member type="way" ref="304488115" role="outer"/>
+    <member type="way" ref="38329460" role="outer"/>
+    <member type="way" ref="29413660" role="outer"/>
+    <member type="way" ref="316688855" role="outer"/>
+    <member type="way" ref="316688852" role="outer"/>
+    <member type="way" ref="316688857" role="outer"/>
+    <member type="way" ref="316688853" role="outer"/>
+    <member type="way" ref="98035914" role="outer"/>
+    <member type="way" ref="316694941" role="outer"/>
+    <member type="way" ref="316694938" role="outer"/>
+    <member type="way" ref="316694934" role="outer"/>
+    <member type="way" ref="316694937" role="outer"/>
+    <member type="way" ref="316694936" role="outer"/>
+    <member type="way" ref="38329455" role="outer"/>
+    <member type="way" ref="316694945" role="outer"/>
+    <member type="way" ref="316694940" role="outer"/>
+    <member type="way" ref="316694946" role="outer"/>
+    <member type="node" ref="163871381" role="label"/>
+    <tag k="ref" v="0509"/>
+    <tag k="name" v="Wilhelmstadt"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Вильхельмштадт"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q563692"/>
+    <tag k="wikipedia" v="de:Berlin-Wilhelmstadt"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Berliner Urstromtal"/>
+  </relation>
+</osm>

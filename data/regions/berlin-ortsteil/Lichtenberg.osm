@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="409206">
+    <member type="way" ref="460521438" role="outer"/>
+    <member type="way" ref="38318544" role="outer"/>
+    <member type="way" ref="191375282" role="outer"/>
+    <member type="way" ref="97495030" role="outer"/>
+    <member type="way" ref="188569531" role="outer"/>
+    <member type="way" ref="269323291" role="outer"/>
+    <member type="way" ref="44016031" role="outer"/>
+    <member type="way" ref="41424229" role="outer"/>
+    <member type="way" ref="50336554" role="outer"/>
+    <member type="way" ref="271787847" role="outer"/>
+    <member type="way" ref="38317787" role="outer"/>
+    <member type="way" ref="280585746" role="outer"/>
+    <member type="way" ref="280585751" role="outer"/>
+    <member type="way" ref="271597465" role="outer"/>
+    <member type="way" ref="188569539" role="outer"/>
+    <member type="way" ref="38317790" role="outer"/>
+    <member type="node" ref="331139102" role="label"/>
+    <tag k="ref" v="1103"/>
+    <tag k="name" v="Lichtenberg"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Лихтенберг"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q9169094"/>
+    <tag k="wikipedia" v="de:Berlin-Lichtenberg"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Barnim"/>
+  </relation>
+</osm>

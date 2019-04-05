@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="55760">
+    <member type="node" ref="262329281" role="label"/>
+    <member type="way" ref="24826151" role="outer"/>
+    <member type="way" ref="25138444" role="outer"/>
+    <member type="way" ref="310798927" role="outer"/>
+    <member type="way" ref="304681963" role="outer"/>
+    <member type="way" ref="25139779" role="outer"/>
+    <member type="way" ref="24216088" role="outer"/>
+    <member type="way" ref="24162324" role="outer"/>
+    <member type="way" ref="49861362" role="outer"/>
+    <member type="way" ref="175726484" role="outer"/>
+    <member type="way" ref="316973618" role="outer"/>
+    <tag k="ref" v="0903"/>
+    <tag k="name" v="Baumschulenweg"/>
+    <tag k="type" v="boundary"/>
+    <tag k="name:ru" v="Баумшуленвег"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q644363"/>
+    <tag k="wikipedia" v="de:Berlin-Baumschulenweg"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Berliner Urstromtal"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="32531"/>
+  </relation>
+</osm>

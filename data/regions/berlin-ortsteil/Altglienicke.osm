@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="162913">
+    <member type="node" ref="161618720" role="label"/>
+    <member type="way" ref="24037716" role="outer"/>
+    <member type="way" ref="97176309" role="outer"/>
+    <member type="way" ref="24031037" role="outer"/>
+    <member type="way" ref="44017862" role="outer"/>
+    <member type="way" ref="24017439" role="outer"/>
+    <member type="way" ref="272164271" role="outer"/>
+    <member type="way" ref="97159169" role="outer"/>
+    <member type="way" ref="50331182" role="outer"/>
+    <member type="way" ref="97148397" role="outer"/>
+    <tag k="ref" v="0906"/>
+    <tag k="name" v="Altglienicke"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="name:ru" v="Альтглинике"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q641472"/>
+    <tag k="wikipedia" v="de:Berlin-Altglienicke"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Teltow"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="32529"/>
+  </relation>
+</osm>

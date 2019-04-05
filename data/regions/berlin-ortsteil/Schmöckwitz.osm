@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="151950">
+    <member type="way" ref="97159165" role="outer"/>
+    <member type="way" ref="44017863" role="outer"/>
+    <member type="way" ref="44020340" role="outer"/>
+    <member type="way" ref="36991886" role="outer"/>
+    <member type="way" ref="51537495" role="outer"/>
+    <member type="way" ref="33066516" role="outer"/>
+    <member type="way" ref="96993858" role="outer"/>
+    <member type="way" ref="32970854" role="outer"/>
+    <member type="way" ref="115947646" role="outer"/>
+    <member type="way" ref="115947720" role="outer"/>
+    <member type="way" ref="408136036" role="outer"/>
+    <member type="way" ref="408136041" role="outer"/>
+    <member type="node" ref="21484076" role="label"/>
+    <tag k="ref" v="0915"/>
+    <tag k="name" v="Schmöckwitz"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="name:ru" v="Шмёквиц"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q563573"/>
+    <tag k="wikipedia" v="de:Berlin-Schmöckwitz"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Berliner Urstromtal"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="32527"/>
+  </relation>
+</osm>

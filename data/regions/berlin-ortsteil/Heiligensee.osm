@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="55748">
+    <member type="way" ref="128453455" role="outer"/>
+    <member type="way" ref="32970081" role="outer"/>
+    <member type="way" ref="292050658" role="outer"/>
+    <member type="way" ref="28732562" role="outer"/>
+    <member type="way" ref="28771709" role="outer"/>
+    <member type="way" ref="292050660" role="outer"/>
+    <member type="way" ref="292050659" role="outer"/>
+    <member type="way" ref="212506915" role="outer"/>
+    <member type="way" ref="252904411" role="admin_centre"/>
+    <member type="node" ref="61885789" role="label"/>
+    <tag k="ref" v="1204"/>
+    <tag k="name" v="Heiligensee"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Хайлигензее"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q513099"/>
+    <tag k="wikipedia" v="de:Berlin-Heiligensee"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Berliner Urstromtal"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="32500"/>
+  </relation>
+</osm>

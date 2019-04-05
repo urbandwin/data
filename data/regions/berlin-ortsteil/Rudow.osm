@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="55757">
+    <member type="way" ref="24826151" role="outer"/>
+    <member type="way" ref="311222437" role="outer"/>
+    <member type="way" ref="24826152" role="outer"/>
+    <member type="way" ref="25141225" role="outer"/>
+    <member type="way" ref="97176309" role="outer"/>
+    <member type="way" ref="24037716" role="outer"/>
+    <member type="way" ref="36875804" role="outer"/>
+    <member type="way" ref="92748058" role="outer"/>
+    <member type="way" ref="253467201" role="outer"/>
+    <member type="way" ref="191756872" role="outer"/>
+    <member type="way" ref="27445834" role="outer"/>
+    <member type="way" ref="273147262" role="outer"/>
+    <member type="way" ref="273147264" role="outer"/>
+    <member type="way" ref="239994627" role="outer"/>
+    <member type="way" ref="97176307" role="outer"/>
+    <member type="way" ref="97208143" role="outer"/>
+    <member type="way" ref="311222438" role="outer"/>
+    <member type="way" ref="311222440" role="outer"/>
+    <member type="way" ref="311222441" role="outer"/>
+    <member type="way" ref="316969542" role="outer"/>
+    <member type="way" ref="316969545" role="outer"/>
+    <member type="way" ref="27445881" role="outer"/>
+    <member type="way" ref="246620866" role="outer"/>
+    <member type="way" ref="27445920" role="outer"/>
+    <member type="node" ref="1774925945" role="label"/>
+    <tag k="ref" v="0804"/>
+    <tag k="name" v="Rudow"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="name:ru" v="Рудов"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q614664"/>
+    <tag k="wikipedia" v="de:Berlin-Rudow"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Teltow"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="32532"/>
+  </relation>
+</osm>

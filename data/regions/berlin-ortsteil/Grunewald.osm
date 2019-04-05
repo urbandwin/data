@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="55742">
+    <member type="node" ref="29337165" role="label"/>
+    <member type="way" ref="310509427" role="outer"/>
+    <member type="way" ref="310509428" role="outer"/>
+    <member type="way" ref="25035706" role="outer"/>
+    <member type="way" ref="38333724" role="outer"/>
+    <member type="way" ref="106847368" role="outer"/>
+    <member type="way" ref="305092820" role="outer"/>
+    <member type="way" ref="305092829" role="outer"/>
+    <member type="way" ref="305092812" role="outer"/>
+    <member type="way" ref="305092803" role="outer"/>
+    <member type="way" ref="107247779" role="outer"/>
+    <member type="way" ref="305092821" role="outer"/>
+    <member type="way" ref="305092814" role="outer"/>
+    <member type="way" ref="25156778" role="outer"/>
+    <member type="way" ref="25156776" role="outer"/>
+    <member type="way" ref="305092824" role="outer"/>
+    <member type="way" ref="107705403" role="outer"/>
+    <member type="way" ref="24793699" role="outer"/>
+    <member type="way" ref="49801643" role="outer"/>
+    <member type="way" ref="304488113" role="outer"/>
+    <member type="way" ref="305092796" role="outer"/>
+    <member type="way" ref="305092822" role="outer"/>
+    <member type="way" ref="49801635" role="outer"/>
+    <member type="way" ref="38333725" role="outer"/>
+    <tag k="ref" v="0404"/>
+    <tag k="name" v="Grunewald"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005; Geoportal Berlin / Postleitzahlen / Karte von Berlin / ATKIS Präsentationsmodel + Stadtteilflächen und Bing und auch mit diversen alte Karten verglichen"/>
+    <tag k="name:ru" v="Груневальд"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q2874431"/>
+    <tag k="wikipedia" v="de:Berlin-Grunewald"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Teltow"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="32543"/>
+  </relation>
+</osm>

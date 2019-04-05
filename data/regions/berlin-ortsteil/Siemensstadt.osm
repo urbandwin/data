@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="410446">
+    <member type="way" ref="306904920" role="outer"/>
+    <member type="way" ref="292050665" role="outer"/>
+    <member type="way" ref="292050662" role="outer"/>
+    <member type="way" ref="50291802" role="outer"/>
+    <member type="way" ref="316690903" role="outer"/>
+    <member type="way" ref="316690901" role="outer"/>
+    <member type="way" ref="316690902" role="outer"/>
+    <member type="way" ref="316690899" role="outer"/>
+    <member type="way" ref="38329463" role="outer"/>
+    <member type="way" ref="38329458" role="outer"/>
+    <member type="way" ref="292050668" role="outer"/>
+    <member type="way" ref="50291803" role="outer"/>
+    <member type="way" ref="306898833" role="outer"/>
+    <member type="way" ref="310990704" role="outer"/>
+    <member type="way" ref="305092823" role="outer"/>
+    <member type="way" ref="305092825" role="outer"/>
+    <member type="node" ref="150545071" role="label"/>
+    <tag k="ref" v="0503"/>
+    <tag k="name" v="Siemensstadt"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Зименсштадт"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q3510657"/>
+    <tag k="wikipedia" v="de:Berlin-Siemensstadt"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Berliner Urstromtal"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="32511"/>
+  </relation>
+</osm>

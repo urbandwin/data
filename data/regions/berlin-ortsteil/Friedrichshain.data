@@ -1,0 +1,7 @@
+name:                    Friedrichshain
+osm-relation:            55763
+wikidata:                Q317056
+bezirk:                  Friedrichshain-Kreuzberg
+neighbors:               Alt-Treptow, Kreuzberg, Lichtenberg, Mitte, Plänterwald, Prenzlauer Berg, Rummelsburg
+computed-centroid:       13.452410, 52.511234
+computed-area:           9894932.03

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="404585">
+    <member type="way" ref="29413619" role="outer"/>
+    <member type="way" ref="44016035" role="outer"/>
+    <member type="way" ref="49803201" role="outer"/>
+    <member type="way" ref="288938874" role="outer"/>
+    <member type="way" ref="288938875" role="outer"/>
+    <member type="way" ref="300014388" role="outer"/>
+    <member type="way" ref="300014390" role="outer"/>
+    <member type="way" ref="97171861" role="outer"/>
+    <member type="way" ref="97167206" role="outer"/>
+    <member type="way" ref="97167207" role="outer"/>
+    <member type="way" ref="44016040" role="outer"/>
+    <member type="way" ref="351681135" role="outer"/>
+    <member type="way" ref="351681134" role="outer"/>
+    <member type="way" ref="44016039" role="outer"/>
+    <member type="way" ref="97171860" role="outer"/>
+    <member type="way" ref="31308333" role="outer"/>
+    <member type="way" ref="97171857" role="outer"/>
+    <member type="way" ref="315222035" role="outer"/>
+    <member type="node" ref="560483808" role="label"/>
+    <tag k="ref" v="1005"/>
+    <tag k="name" v="Hellersdorf"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Хеллерсдорф"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q821089"/>
+    <tag k="wikipedia" v="de:Berlin-Hellersdorf"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Barnim"/>
+  </relation>
+</osm>

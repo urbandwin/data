@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="162901">
+    <member type="node" ref="163886348" role="label"/>
+    <member type="way" ref="175726484" role="outer"/>
+    <member type="way" ref="316973618" role="outer"/>
+    <member type="way" ref="27445920" role="outer"/>
+    <member type="way" ref="246620866" role="outer"/>
+    <member type="way" ref="307534095" role="outer"/>
+    <member type="way" ref="316843019" role="outer"/>
+    <member type="way" ref="316843020" role="outer"/>
+    <member type="way" ref="316843018" role="outer"/>
+    <member type="way" ref="316843024" role="outer"/>
+    <member type="way" ref="316843021" role="outer"/>
+    <member type="way" ref="316843022" role="outer"/>
+    <member type="way" ref="38333899" role="outer"/>
+    <member type="way" ref="38333901" role="outer"/>
+    <member type="way" ref="304760784" role="outer"/>
+    <member type="way" ref="269631787" role="outer"/>
+    <member type="way" ref="36874973" role="outer"/>
+    <member type="way" ref="305119970" role="outer"/>
+    <member type="way" ref="280675131" role="outer"/>
+    <member type="way" ref="280675133" role="outer"/>
+    <member type="way" ref="280677454" role="outer"/>
+    <member type="way" ref="280677453" role="outer"/>
+    <member type="way" ref="305119969" role="outer"/>
+    <member type="way" ref="43946328" role="outer"/>
+    <member type="way" ref="270165609" role="outer"/>
+    <member type="way" ref="270165611" role="outer"/>
+    <member type="way" ref="280626849" role="outer"/>
+    <member type="way" ref="280626850" role="outer"/>
+    <member type="way" ref="273139350" role="outer"/>
+    <member type="way" ref="97216978" role="outer"/>
+    <member type="way" ref="316837841" role="outer"/>
+    <member type="way" ref="316837839" role="outer"/>
+    <member type="way" ref="316837840" role="outer"/>
+    <member type="way" ref="316837838" role="outer"/>
+    <member type="way" ref="279862929" role="outer"/>
+    <member type="way" ref="304760793" role="outer"/>
+    <member type="way" ref="304760785" role="outer"/>
+    <tag k="ref" v="0802"/>
+    <tag k="name" v="Britz"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="name:ru" v="Бритц"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q428846"/>
+    <tag k="wikipedia" v="de:Berlin-Britz"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Teltow"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="32533"/>
+  </relation>
+</osm>

@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="55754">
+    <member type="way" ref="408136041" role="outer"/>
+    <member type="way" ref="408136036" role="outer"/>
+    <member type="way" ref="115947720" role="outer"/>
+    <member type="way" ref="115947646" role="outer"/>
+    <member type="way" ref="32970854" role="outer"/>
+    <member type="way" ref="96993858" role="outer"/>
+    <member type="way" ref="33066516" role="outer"/>
+    <member type="way" ref="51537495" role="outer"/>
+    <member type="way" ref="36991886" role="outer"/>
+    <member type="way" ref="44020341" role="outer"/>
+    <member type="way" ref="44020345" role="outer"/>
+    <member type="way" ref="92737002" role="outer"/>
+    <member type="way" ref="50331182" role="outer"/>
+    <member type="way" ref="97148397" role="outer"/>
+    <member type="way" ref="24037716" role="outer"/>
+    <member type="way" ref="97176309" role="outer"/>
+    <member type="way" ref="25141225" role="outer"/>
+    <member type="way" ref="24826152" role="outer"/>
+    <member type="way" ref="311222437" role="outer"/>
+    <member type="way" ref="24826151" role="outer"/>
+    <member type="way" ref="316973618" role="outer"/>
+    <member type="way" ref="175726484" role="outer"/>
+    <member type="way" ref="49861362" role="outer"/>
+    <member type="way" ref="24793704" role="outer"/>
+    <member type="way" ref="97215173" role="outer"/>
+    <member type="way" ref="458967344" role="outer"/>
+    <member type="way" ref="97219744" role="outer"/>
+    <member type="way" ref="28771715" role="outer"/>
+    <member type="way" ref="269885447" role="outer"/>
+    <member type="way" ref="269885449" role="outer"/>
+    <member type="way" ref="24793701" role="outer"/>
+    <member type="way" ref="97602691" role="outer"/>
+    <member type="way" ref="24793695" role="outer"/>
+    <member type="way" ref="175726485" role="outer"/>
+    <member type="way" ref="24793696" role="outer"/>
+    <member type="way" ref="97215171" role="outer"/>
+    <member type="way" ref="25140119" role="outer"/>
+    <member type="way" ref="272645691" role="outer"/>
+    <member type="way" ref="44021061" role="outer"/>
+    <member type="way" ref="37785016" role="outer"/>
+    <member type="way" ref="49863778" role="outer"/>
+    <member type="way" ref="282506077" role="outer"/>
+    <member type="way" ref="282506076" role="outer"/>
+    <member type="way" ref="282756573" role="outer"/>
+    <member type="way" ref="305130016" role="outer"/>
+    <member type="way" ref="384925411" role="outer"/>
+    <member type="way" ref="282756576" role="outer"/>
+    <member type="way" ref="49803200" role="outer"/>
+    <member type="way" ref="282793189" role="outer"/>
+    <member type="way" ref="384925428" role="outer"/>
+    <member type="way" ref="32967296" role="outer"/>
+    <member type="way" ref="49925135" role="outer"/>
+    <member type="way" ref="29412546" role="outer"/>
+    <member type="way" ref="50336551" role="outer"/>
+    <member type="way" ref="245076260" role="outer"/>
+    <member type="way" ref="33090897" role="outer"/>
+    <member type="way" ref="50336559" role="outer"/>
+    <member type="way" ref="191002364" role="outer"/>
+    <member type="way" ref="315221753" role="outer"/>
+    <member type="node" ref="1779489658" role="label"/>
+    <tag k="ref" v="09"/>
+    <tag k="name" v="Treptow-Köpenick"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="borough"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Трептов-Кёпеник"/>
+    <tag k="website" v="http://www.berlin.de/ba-treptow-koepenick/"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q158089"/>
+    <tag k="wikipedia" v="de:Bezirk Treptow-Köpenick"/>
+    <tag k="is_in:city" v="Berlin"/>
+    <tag k="population" v="257782"/>
+    <tag k="admin_level" v="9"/>
+    <tag k="description" v="9. Verwaltungsbezirk von Berlin"/>
+    <tag k="is_in:state" v="Berlin"/>
+    <tag k="name:prefix" v="Bezirk"/>
+    <tag k="is_in:county" v="Berlin"/>
+    <tag k="is_in:region" v="Berlin"/>
+    <tag k="is_in:country" v="Deutschland"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="population:date" v="2016-06-30"/>
+    <tag k="is_in:state_code" v="BE"/>
+    <tag k="source:population" v="https://de.wikipedia.org/wiki/Bezirk_Treptow-K%C3%B6penick"/>
+    <tag k="is_in:country_code" v="DE"/>
+    <tag k="geographical_region" v="Berliner Urstromtal"/>
+    <tag k="is_in:country_prefix" v="Bundesrepublik"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="32817"/>
+  </relation>
+</osm>

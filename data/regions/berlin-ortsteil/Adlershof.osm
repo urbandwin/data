@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="55756">
+    <member type="node" ref="21484102" role="label"/>
+    <member type="way" ref="24031037" role="outer"/>
+    <member type="way" ref="44020349" role="outer"/>
+    <member type="way" ref="97159161" role="outer"/>
+    <member type="way" ref="25139916" role="outer"/>
+    <member type="way" ref="25138446" role="outer"/>
+    <member type="way" ref="280371527" role="outer"/>
+    <member type="way" ref="280371531" role="outer"/>
+    <member type="way" ref="24149366" role="outer"/>
+    <member type="way" ref="25141225" role="outer"/>
+    <tag k="ref" v="0907"/>
+    <tag k="name" v="Adlershof"/>
+    <tag k="type" v="boundary"/>
+    <tag k="name:de" v="Adlershof"/>
+    <tag k="name:ru" v="Адлерсхоф"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q599941"/>
+    <tag k="wikipedia" v="de:Berlin-Adlershof"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Berliner Urstromtal"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="32526"/>
+  </relation>
+</osm>

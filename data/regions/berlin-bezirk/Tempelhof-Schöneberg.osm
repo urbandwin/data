@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="158437">
+    <member type="way" ref="311263173" role="outer"/>
+    <member type="way" ref="270405893" role="outer"/>
+    <member type="way" ref="311263176" role="outer"/>
+    <member type="way" ref="24793085" role="outer"/>
+    <member type="way" ref="296431685" role="outer"/>
+    <member type="way" ref="312004988" role="outer"/>
+    <member type="way" ref="97468190" role="outer"/>
+    <member type="way" ref="245191319" role="outer"/>
+    <member type="way" ref="188569535" role="outer"/>
+    <member type="way" ref="25155730" role="outer"/>
+    <member type="way" ref="318666227" role="outer"/>
+    <member type="way" ref="97211252" role="outer"/>
+    <member type="way" ref="269637997" role="outer"/>
+    <member type="way" ref="189102971" role="outer"/>
+    <member type="way" ref="269638000" role="outer"/>
+    <member type="way" ref="269639291" role="outer"/>
+    <member type="way" ref="305188963" role="outer"/>
+    <member type="way" ref="305188975" role="outer"/>
+    <member type="way" ref="97219740" role="outer"/>
+    <member type="way" ref="97219738" role="outer"/>
+    <member type="way" ref="325248176" role="outer"/>
+    <member type="way" ref="325248175" role="outer"/>
+    <member type="way" ref="325248177" role="outer"/>
+    <member type="way" ref="325224964" role="outer"/>
+    <member type="way" ref="49861359" role="outer"/>
+    <member type="way" ref="305119969" role="outer"/>
+    <member type="way" ref="280677453" role="outer"/>
+    <member type="way" ref="280677454" role="outer"/>
+    <member type="way" ref="280675133" role="outer"/>
+    <member type="way" ref="280675131" role="outer"/>
+    <member type="way" ref="305119970" role="outer"/>
+    <member type="way" ref="36874973" role="outer"/>
+    <member type="way" ref="269631787" role="outer"/>
+    <member type="way" ref="304760784" role="outer"/>
+    <member type="way" ref="304760793" role="outer"/>
+    <member type="way" ref="304760785" role="outer"/>
+    <member type="way" ref="304760808" role="outer"/>
+    <member type="way" ref="304760791" role="outer"/>
+    <member type="way" ref="304760798" role="outer"/>
+    <member type="way" ref="36237035" role="outer"/>
+    <member type="way" ref="36224135" role="outer"/>
+    <member type="way" ref="279697730" role="outer"/>
+    <member type="way" ref="36334189" role="outer"/>
+    <member type="way" ref="69358437" role="outer"/>
+    <member type="way" ref="29413044" role="outer"/>
+    <member type="way" ref="279645262" role="outer"/>
+    <member type="way" ref="69244504" role="outer"/>
+    <member type="way" ref="32970651" role="outer"/>
+    <member type="way" ref="329286177" role="outer"/>
+    <member type="way" ref="32968939" role="outer"/>
+    <member type="way" ref="69078372" role="outer"/>
+    <member type="way" ref="69407170" role="outer"/>
+    <member type="way" ref="447352967" role="outer"/>
+    <member type="way" ref="25414820" role="outer"/>
+    <member type="way" ref="25467809" role="outer"/>
+    <member type="way" ref="305236039" role="outer"/>
+    <member type="way" ref="305236038" role="outer"/>
+    <member type="way" ref="305236037" role="outer"/>
+    <member type="way" ref="305371573" role="outer"/>
+    <member type="way" ref="305371578" role="outer"/>
+    <member type="way" ref="305371572" role="outer"/>
+    <member type="way" ref="305371577" role="outer"/>
+    <member type="way" ref="305371571" role="outer"/>
+    <member type="way" ref="305371580" role="outer"/>
+    <member type="way" ref="305371579" role="outer"/>
+    <member type="way" ref="305371576" role="outer"/>
+    <member type="way" ref="305228555" role="outer"/>
+    <member type="way" ref="305228550" role="outer"/>
+    <member type="way" ref="305175479" role="outer"/>
+    <member type="way" ref="305175480" role="outer"/>
+    <member type="way" ref="25155985" role="outer"/>
+    <member type="way" ref="25155983" role="outer"/>
+    <member type="way" ref="305175443" role="outer"/>
+    <member type="way" ref="25155980" role="outer"/>
+    <member type="way" ref="25155281" role="outer"/>
+    <member type="way" ref="25155280" role="outer"/>
+    <member type="way" ref="305261864" role="outer"/>
+    <member type="way" ref="305261862" role="outer"/>
+    <member type="way" ref="305261868" role="outer"/>
+    <member type="way" ref="305261861" role="outer"/>
+    <member type="way" ref="305261867" role="outer"/>
+    <member type="way" ref="305261866" role="outer"/>
+    <member type="way" ref="305261865" role="outer"/>
+    <member type="way" ref="305261863" role="outer"/>
+    <member type="way" ref="305265132" role="outer"/>
+    <member type="way" ref="305265129" role="outer"/>
+    <member type="way" ref="305265128" role="outer"/>
+    <member type="way" ref="70120012" role="outer"/>
+    <member type="way" ref="70120694" role="outer"/>
+    <member type="way" ref="158084129" role="outer"/>
+    <member type="way" ref="326603679" role="outer"/>
+    <member type="way" ref="326603677" role="outer"/>
+    <member type="way" ref="305248552" role="outer"/>
+    <member type="way" ref="25035025" role="outer"/>
+    <member type="way" ref="24161208" role="outer"/>
+    <member type="way" ref="97726161" role="outer"/>
+    <member type="way" ref="270405891" role="outer"/>
+    <member type="way" ref="270405892" role="outer"/>
+    <member type="way" ref="311263172" role="outer"/>
+    <member type="node" ref="1779489657" role="label"/>
+    <tag k="ref" v="07"/>
+    <tag k="name" v="Tempelhof-Schöneberg"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="borough"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Темпельхоф-Шёнеберг"/>
+    <tag k="website" v="http://www.berlin.de/ba-tempelhof-schoeneberg/"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q158106"/>
+    <tag k="wikipedia" v="de:Bezirk Tempelhof-Schöneberg"/>
+    <tag k="is_in:city" v="Berlin"/>
+    <tag k="population" v="345024"/>
+    <tag k="admin_level" v="9"/>
+    <tag k="description" v="7. Verwaltungsbezirk von Berlin"/>
+    <tag k="is_in:state" v="Berlin"/>
+    <tag k="name:prefix" v="Bezirk"/>
+    <tag k="is_in:county" v="Berlin"/>
+    <tag k="is_in:region" v="Berlin"/>
+    <tag k="is_in:country" v="Deutschland"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="population:date" v="2016-06-30"/>
+    <tag k="is_in:state_code" v="BE"/>
+    <tag k="source:population" v="https://de.wikipedia.org/wiki/Bezirk_Tempelhof-Sch%C3%B6neberg"/>
+    <tag k="is_in:country_code" v="DE"/>
+    <tag k="geographical_region" v="Teltow"/>
+    <tag k="is_in:country_prefix" v="Bundesrepublik"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="32816"/>
+  </relation>
+</osm>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="55744">
+    <member type="way" ref="252904411" role="admin_centre"/>
+    <member type="node" ref="159770854" role="label"/>
+    <member type="way" ref="49870814" role="outer"/>
+    <member type="way" ref="20963229" role="outer"/>
+    <member type="way" ref="316157882" role="outer"/>
+    <member type="way" ref="25130369" role="outer"/>
+    <member type="way" ref="316145107" role="outer"/>
+    <member type="way" ref="316145106" role="outer"/>
+    <member type="way" ref="316145105" role="outer"/>
+    <member type="way" ref="316145109" role="outer"/>
+    <member type="way" ref="316145108" role="outer"/>
+    <member type="way" ref="316145114" role="outer"/>
+    <tag k="ref" v="1210"/>
+    <tag k="name" v="Märkisches Viertel"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Мэркишес Фиртель"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q678200"/>
+    <tag k="wikipedia" v="de:Berlin-Märkisches Viertel"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Barnim"/>
+  </relation>
+</osm>

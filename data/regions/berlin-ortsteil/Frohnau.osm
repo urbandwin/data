@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="16330">
+    <member type="way" ref="252904411" role="admin_centre"/>
+    <member type="node" ref="78165700" role="label"/>
+    <member type="way" ref="88569971" role="outer"/>
+    <member type="way" ref="88569977" role="outer"/>
+    <member type="way" ref="328226372" role="outer"/>
+    <member type="way" ref="328226374" role="outer"/>
+    <member type="way" ref="88569911" role="outer"/>
+    <member type="way" ref="32969956" role="outer"/>
+    <member type="way" ref="276080621" role="outer"/>
+    <member type="way" ref="212506915" role="outer"/>
+    <member type="way" ref="310786282" role="outer"/>
+    <member type="way" ref="316145119" role="outer"/>
+    <member type="way" ref="316145118" role="outer"/>
+    <member type="way" ref="310786281" role="outer"/>
+    <tag k="ref" v="1205"/>
+    <tag k="name" v="Frohnau"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Фронау"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q641467"/>
+    <tag k="wikipedia" v="de:Berlin-Frohnau"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Barnim"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="32549"/>
+  </relation>
+</osm>

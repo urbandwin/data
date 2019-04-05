@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="413420">
+    <member type="node" ref="560483810" role="label"/>
+    <member type="way" ref="44016033" role="outer"/>
+    <member type="way" ref="44020342" role="outer"/>
+    <member type="way" ref="304934017" role="outer"/>
+    <member type="way" ref="304934000" role="outer"/>
+    <member type="way" ref="304933998" role="outer"/>
+    <member type="way" ref="44016046" role="outer"/>
+    <member type="way" ref="304933992" role="outer"/>
+    <member type="way" ref="44016044" role="outer"/>
+    <member type="way" ref="44020359" role="outer"/>
+    <member type="way" ref="38317784" role="outer"/>
+    <tag k="ref" v="1109"/>
+    <tag k="name" v="Neu-Hohenschönhausen"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Ной-Хоэншёнхаузен"/>
+    <tag k="ref:old" v="1105 ehem. Hohenschönhausen"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q569866"/>
+    <tag k="wikipedia" v="de:Berlin-Neu-Hohenschönhausen"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Barnim"/>
+  </relation>
+</osm>

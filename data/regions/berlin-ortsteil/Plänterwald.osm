@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="55761">
+    <member type="node" ref="261713413" role="label"/>
+    <member type="way" ref="175726485" role="outer"/>
+    <member type="way" ref="24042231" role="outer"/>
+    <member type="way" ref="97219744" role="outer"/>
+    <member type="way" ref="458967344" role="outer"/>
+    <member type="way" ref="97215173" role="outer"/>
+    <member type="way" ref="24793704" role="outer"/>
+    <member type="way" ref="24162324" role="outer"/>
+    <member type="way" ref="24793703" role="outer"/>
+    <member type="way" ref="97215171" role="outer"/>
+    <member type="way" ref="24793696" role="outer"/>
+    <tag k="ref" v="0902"/>
+    <tag k="name" v="Plänterwald"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="name:ru" v="Плентервальд"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q560550"/>
+    <tag k="wikipedia" v="de:Berlin-Plänterwald"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Berliner Urstromtal"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="31139"/>
+  </relation>
+</osm>

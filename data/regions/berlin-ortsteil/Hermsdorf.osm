@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="55746">
+    <member type="way" ref="252904411" role="admin_centre"/>
+    <member type="node" ref="145749229" role="label"/>
+    <member type="way" ref="25132042" role="outer"/>
+    <member type="way" ref="25132251" role="outer"/>
+    <member type="way" ref="292051279" role="outer"/>
+    <member type="way" ref="316145270" role="outer"/>
+    <member type="way" ref="316145271" role="outer"/>
+    <member type="way" ref="28732137" role="outer"/>
+    <member type="way" ref="28771708" role="outer"/>
+    <member type="way" ref="316145119" role="outer"/>
+    <member type="way" ref="316145118" role="outer"/>
+    <member type="way" ref="310786281" role="outer"/>
+    <member type="way" ref="274242263" role="outer"/>
+    <member type="way" ref="270138536" role="outer"/>
+    <member type="way" ref="274591594" role="outer"/>
+    <member type="way" ref="274591595" role="outer"/>
+    <tag k="ref" v="1206"/>
+    <tag k="name" v="Hermsdorf"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Хермсдорф"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q565018"/>
+    <tag k="wikipedia" v="de:Berlin-Hermsdorf"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Barnim"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="32501"/>
+  </relation>
+</osm>

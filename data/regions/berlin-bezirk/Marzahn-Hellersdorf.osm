@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="164712">
+    <member type="way" ref="37785237" role="outer"/>
+    <member type="way" ref="89253781" role="outer"/>
+    <member type="way" ref="315222037" role="outer"/>
+    <member type="way" ref="126556513" role="outer"/>
+    <member type="way" ref="97173641" role="outer"/>
+    <member type="way" ref="31308333" role="outer"/>
+    <member type="way" ref="97171857" role="outer"/>
+    <member type="way" ref="315222035" role="outer"/>
+    <member type="way" ref="29413619" role="outer"/>
+    <member type="way" ref="44017865" role="outer"/>
+    <member type="way" ref="90738886" role="outer"/>
+    <member type="way" ref="90738836" role="outer"/>
+    <member type="way" ref="384925426" role="outer"/>
+    <member type="way" ref="282793189" role="outer"/>
+    <member type="way" ref="49803200" role="outer"/>
+    <member type="way" ref="282756576" role="outer"/>
+    <member type="way" ref="384925411" role="outer"/>
+    <member type="way" ref="305130016" role="outer"/>
+    <member type="way" ref="282756573" role="outer"/>
+    <member type="way" ref="282506076" role="outer"/>
+    <member type="way" ref="282506077" role="outer"/>
+    <member type="way" ref="49863778" role="outer"/>
+    <member type="way" ref="37785016" role="outer"/>
+    <member type="way" ref="50336557" role="outer"/>
+    <member type="way" ref="97458455" role="outer"/>
+    <member type="way" ref="49863777" role="outer"/>
+    <member type="way" ref="42048477" role="outer"/>
+    <member type="way" ref="50336554" role="outer"/>
+    <member type="way" ref="38318545" role="outer"/>
+    <member type="way" ref="44020342" role="outer"/>
+    <member type="way" ref="44020362" role="outer"/>
+    <member type="way" ref="97173647" role="outer"/>
+    <member type="node" ref="1778215732" role="label"/>
+    <tag k="ref" v="10"/>
+    <tag k="name" v="Marzahn-Hellersdorf"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="borough"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Марцан-Хеллерсдорф"/>
+    <tag k="website" v="http://www.berlin.de/ba-marzahn-hellersdorf/"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q119284"/>
+    <tag k="wikipedia" v="de:Bezirk Marzahn-Hellersdorf"/>
+    <tag k="is_in:city" v="Berlin"/>
+    <tag k="population" v="261954"/>
+    <tag k="admin_level" v="9"/>
+    <tag k="description" v="10. Verwaltungsbezirk von Berlin"/>
+    <tag k="is_in:state" v="Berlin"/>
+    <tag k="name:prefix" v="Bezirk"/>
+    <tag k="is_in:county" v="Berlin"/>
+    <tag k="is_in:region" v="Berlin"/>
+    <tag k="is_in:country" v="Deutschland"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="population:date" v="2016-06-30"/>
+    <tag k="is_in:state_code" v="BE"/>
+    <tag k="postal_addr:city" v="Berlin"/>
+    <tag k="source:population" v="https://de.wikipedia.org/wiki/de:Bezirk Marzahn-Hellersdorf"/>
+    <tag k="is_in:country_code" v="DE"/>
+    <tag k="geographical_region" v="Barnim"/>
+    <tag k="postal_addr:country" v="DE"/>
+    <tag k="is_in:country_prefix" v="Bundesrepublik"/>
+    <tag k="postal_addr:postcode" v="12591"/>
+    <tag k="postal_addr:housename" v="Bezirksamt Marzahn-Hellersdorf von Berlin"/>
+  </relation>
+</osm>

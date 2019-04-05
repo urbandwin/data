@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="16347">
+    <member type="way" ref="97994626" role="outer"/>
+    <member type="way" ref="50220239" role="outer"/>
+    <member type="way" ref="24792156" role="outer"/>
+    <member type="way" ref="405963359" role="outer"/>
+    <member type="way" ref="304432720" role="outer"/>
+    <member type="way" ref="405963360" role="outer"/>
+    <member type="way" ref="405963361" role="outer"/>
+    <member type="way" ref="24792155" role="outer"/>
+    <member type="way" ref="304432718" role="outer"/>
+    <member type="way" ref="304432719" role="outer"/>
+    <member type="way" ref="304831264" role="outer"/>
+    <member type="way" ref="304831262" role="outer"/>
+    <member type="way" ref="304831261" role="outer"/>
+    <member type="way" ref="98016884" role="outer"/>
+    <member type="way" ref="97994624" role="outer"/>
+    <member type="way" ref="20455960" role="outer"/>
+    <member type="way" ref="24792149" role="outer"/>
+    <member type="way" ref="188388728" role="outer"/>
+    <member type="way" ref="166099026" role="outer"/>
+    <member type="way" ref="150524254" role="outer"/>
+    <member type="way" ref="304849074" role="outer"/>
+    <member type="way" ref="304488110" role="outer"/>
+    <member type="way" ref="24793301" role="outer"/>
+    <member type="way" ref="39341830" role="outer"/>
+    <member type="way" ref="270457274" role="outer"/>
+    <member type="way" ref="270457270" role="outer"/>
+    <member type="way" ref="97717880" role="outer"/>
+    <member type="way" ref="392904877" role="outer"/>
+    <member type="way" ref="97707256" role="outer"/>
+    <member type="way" ref="272673160" role="outer"/>
+    <member type="way" ref="272673161" role="outer"/>
+    <member type="way" ref="24793086" role="outer"/>
+    <member type="way" ref="311296318" role="outer"/>
+    <member type="way" ref="316741502" role="outer"/>
+    <member type="way" ref="316741509" role="outer"/>
+    <member type="way" ref="312188177" role="outer"/>
+    <member type="way" ref="384947460" role="outer"/>
+    <member type="way" ref="384947458" role="outer"/>
+    <member type="way" ref="312188176" role="outer"/>
+    <member type="way" ref="97726161" role="outer"/>
+    <member type="way" ref="270405891" role="outer"/>
+    <member type="way" ref="270405892" role="outer"/>
+    <member type="way" ref="311263172" role="outer"/>
+    <member type="way" ref="311263173" role="outer"/>
+    <member type="way" ref="270405893" role="outer"/>
+    <member type="way" ref="311263176" role="outer"/>
+    <member type="way" ref="24793085" role="outer"/>
+    <member type="way" ref="272890650" role="outer"/>
+    <member type="way" ref="24793311" role="outer"/>
+    <member type="way" ref="97605950" role="outer"/>
+    <member type="way" ref="97621601" role="outer"/>
+    <member type="way" ref="272890647" role="outer"/>
+    <member type="way" ref="272890648" role="outer"/>
+    <member type="way" ref="305213393" role="outer"/>
+    <member type="way" ref="305213394" role="outer"/>
+    <member type="way" ref="97602678" role="outer"/>
+    <member type="way" ref="97602700" role="outer"/>
+    <member type="way" ref="97621573" role="outer"/>
+    <member type="way" ref="269336384" role="outer"/>
+    <member type="way" ref="269336386" role="outer"/>
+    <member type="way" ref="269336018" role="outer"/>
+    <member type="way" ref="269336017" role="outer"/>
+    <member type="way" ref="152442786" role="outer"/>
+    <member type="way" ref="316820286" role="outer"/>
+    <member type="way" ref="269340408" role="outer"/>
+    <member type="way" ref="97504006" role="outer"/>
+    <member type="way" ref="269351135" role="outer"/>
+    <member type="way" ref="305213391" role="outer"/>
+    <member type="way" ref="304934011" role="outer"/>
+    <member type="way" ref="304933985" role="outer"/>
+    <member type="way" ref="304933987" role="outer"/>
+    <member type="way" ref="304933990" role="outer"/>
+    <member type="way" ref="185943195" role="outer"/>
+    <member type="way" ref="24792157" role="outer"/>
+    <member type="way" ref="185943936" role="outer"/>
+    <member type="way" ref="405963357" role="outer"/>
+    <member type="node" ref="966687854" role="label"/>
+    <member type="node" ref="667888029" role="admin_centre"/>
+    <tag k="ref" v="01"/>
+    <tag k="name" v="Mitte"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="borough"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:de" v="Mitte"/>
+    <tag k="name:ru" v="Митте"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q163966"/>
+    <tag k="wikipedia" v="de:Bezirk Mitte"/>
+    <tag k="population" v="368122"/>
+    <tag k="admin_level" v="9"/>
+    <tag k="description" v="1. Verwaltungsbezirk von Berlin"/>
+    <tag k="name:prefix" v="Bezirk"/>
+    <tag k="contact:website" v="http://www.berlin.de/ba-mitte/"/>
+    <tag k="population:date" v="2016-06-30"/>
+    <tag k="postal_addr:city" v="Berlin"/>
+    <tag k="source:population" v="https://de.wikipedia.org/wiki/de:Bezirk_Mitte"/>
+    <tag k="postal_addr:street" v="Mathilde-Jacob-Platz"/>
+    <tag k="geographical_region" v="Berliner Urstromtal"/>
+    <tag k="postal_addr:country" v="DE"/>
+    <tag k="postal_addr:postcode" v="13341"/>
+    <tag k="postal_addr:housename" v="Bezirksamt Mitte von Berlin"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="4885"/>
+  </relation>
+</osm>

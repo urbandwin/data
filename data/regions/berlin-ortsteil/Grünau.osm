@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="151937">
+    <member type="node" ref="261670146" role="label"/>
+    <member type="way" ref="44020340" role="outer"/>
+    <member type="way" ref="44020348" role="outer"/>
+    <member type="way" ref="97159167" role="outer"/>
+    <member type="way" ref="25139491" role="outer"/>
+    <member type="way" ref="44020349" role="outer"/>
+    <member type="way" ref="44017862" role="outer"/>
+    <member type="way" ref="28278677" role="outer"/>
+    <member type="way" ref="280134068" role="outer"/>
+    <member type="way" ref="280134067" role="outer"/>
+    <member type="way" ref="272164277" role="outer"/>
+    <member type="way" ref="284961820" role="outer"/>
+    <member type="way" ref="44020341" role="outer"/>
+    <tag k="ref" v="0913"/>
+    <tag k="name" v="Grünau"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="name:ru" v="Грюнау"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q643857"/>
+    <tag k="wikipedia" v="de:Berlin-Grünau"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Berliner Urstromtal"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="32525"/>
+  </relation>
+</osm>

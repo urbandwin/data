@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="409209">
+    <member type="node" ref="288659908" role="label"/>
+    <member type="way" ref="44017861" role="outer"/>
+    <member type="way" ref="276277695" role="outer"/>
+    <member type="way" ref="44021061" role="outer"/>
+    <member type="way" ref="37785016" role="outer"/>
+    <member type="way" ref="49863778" role="outer"/>
+    <member type="way" ref="282506077" role="outer"/>
+    <member type="way" ref="282506076" role="outer"/>
+    <member type="way" ref="282756573" role="outer"/>
+    <member type="way" ref="305130016" role="outer"/>
+    <member type="way" ref="384925411" role="outer"/>
+    <member type="way" ref="282756576" role="outer"/>
+    <member type="way" ref="49803200" role="outer"/>
+    <member type="way" ref="282793189" role="outer"/>
+    <member type="way" ref="384925428" role="outer"/>
+    <member type="way" ref="32967296" role="outer"/>
+    <member type="way" ref="44017858" role="outer"/>
+    <member type="way" ref="384925423" role="outer"/>
+    <member type="way" ref="282386717" role="outer"/>
+    <member type="way" ref="282386715" role="outer"/>
+    <member type="way" ref="97159159" role="outer"/>
+    <member type="way" ref="44017859" role="outer"/>
+    <member type="way" ref="44017864" role="outer"/>
+    <member type="way" ref="97159167" role="outer"/>
+    <member type="way" ref="25139491" role="outer"/>
+    <member type="way" ref="97159161" role="outer"/>
+    <member type="way" ref="25139916" role="outer"/>
+    <member type="way" ref="24229785" role="outer"/>
+    <tag k="ref" v="0910"/>
+    <tag k="name" v="Köpenick"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="name:ru" v="Кёпеник"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name:hsb" v="Kopjenik"/>
+    <tag k="wikidata" v="Q521521"/>
+    <tag k="wikipedia" v="de:Berlin-Köpenick"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Berliner Urstromtal"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="4841"/>
+  </relation>
+</osm>

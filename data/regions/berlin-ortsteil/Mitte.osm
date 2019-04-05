@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="16566">
+    <member type="node" ref="162012321" role="label"/>
+    <member type="way" ref="269336017" role="outer"/>
+    <member type="way" ref="269336018" role="outer"/>
+    <member type="way" ref="269336386" role="outer"/>
+    <member type="way" ref="269336384" role="outer"/>
+    <member type="way" ref="97621573" role="outer"/>
+    <member type="way" ref="97602700" role="outer"/>
+    <member type="way" ref="97602678" role="outer"/>
+    <member type="way" ref="305213394" role="outer"/>
+    <member type="way" ref="305213393" role="outer"/>
+    <member type="way" ref="272890648" role="outer"/>
+    <member type="way" ref="272890647" role="outer"/>
+    <member type="way" ref="97621601" role="outer"/>
+    <member type="way" ref="97605950" role="outer"/>
+    <member type="way" ref="74683406" role="outer"/>
+    <member type="way" ref="280606162" role="outer"/>
+    <member type="way" ref="271004402" role="outer"/>
+    <member type="way" ref="271004399" role="outer"/>
+    <member type="way" ref="328336233" role="outer"/>
+    <member type="way" ref="328336234" role="outer"/>
+    <member type="way" ref="272608107" role="outer"/>
+    <member type="way" ref="272608110" role="outer"/>
+    <member type="way" ref="97707244" role="outer"/>
+    <member type="way" ref="24793310" role="outer"/>
+    <member type="way" ref="97631368" role="outer"/>
+    <member type="way" ref="24792160" role="outer"/>
+    <member type="way" ref="24792158" role="outer"/>
+    <member type="way" ref="185787601" role="outer"/>
+    <member type="way" ref="189101272" role="outer"/>
+    <member type="way" ref="24792157" role="outer"/>
+    <member type="way" ref="185943195" role="outer"/>
+    <member type="way" ref="304933990" role="outer"/>
+    <member type="way" ref="304933987" role="outer"/>
+    <member type="way" ref="304933985" role="outer"/>
+    <member type="way" ref="304934011" role="outer"/>
+    <member type="way" ref="305213391" role="outer"/>
+    <member type="way" ref="269351135" role="outer"/>
+    <member type="way" ref="97504006" role="outer"/>
+    <member type="way" ref="269340408" role="outer"/>
+    <member type="way" ref="316820286" role="outer"/>
+    <member type="way" ref="152442786" role="outer"/>
+    <tag k="ref" v="0101"/>
+    <tag k="name" v="Mitte"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:de" v="Mitte"/>
+    <tag k="name:ru" v="Митте"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q2013767"/>
+    <tag k="wikipedia" v="de:Berlin-Mitte"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Berliner Urstromtal"/>
+  </relation>
+</osm>

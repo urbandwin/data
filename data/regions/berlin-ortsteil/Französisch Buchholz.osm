@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="404576">
+    <member type="node" ref="1776808267" role="admin_centre"/>
+    <member type="way" ref="252929824" role="admin_centre"/>
+    <member type="node" ref="1776808266" role="admin_centre"/>
+    <member type="node" ref="163861801" role="label"/>
+    <member type="way" ref="290710242" role="outer"/>
+    <member type="way" ref="304933991" role="outer"/>
+    <member type="way" ref="43999405" role="outer"/>
+    <member type="way" ref="44020353" role="outer"/>
+    <member type="way" ref="43946329" role="outer"/>
+    <member type="way" ref="304934002" role="outer"/>
+    <member type="way" ref="304935625" role="outer"/>
+    <member type="way" ref="304934001" role="outer"/>
+    <member type="way" ref="304933982" role="outer"/>
+    <member type="way" ref="316157886" role="outer"/>
+    <member type="way" ref="316157880" role="outer"/>
+    <member type="way" ref="44020352" role="outer"/>
+    <member type="way" ref="293446860" role="outer"/>
+    <member type="way" ref="293446854" role="outer"/>
+    <member type="way" ref="305129245" role="outer"/>
+    <member type="way" ref="44020351" role="outer"/>
+    <member type="way" ref="97866873" role="outer"/>
+    <member type="way" ref="304933979" role="outer"/>
+    <member type="way" ref="44020350" role="outer"/>
+    <member type="way" ref="304934013" role="outer"/>
+    <member type="way" ref="304933975" role="outer"/>
+    <member type="way" ref="304934006" role="outer"/>
+    <member type="way" ref="304933989" role="outer"/>
+    <member type="way" ref="304935626" role="outer"/>
+    <tag k="ref" v="0310"/>
+    <tag k="name" v="Französisch Buchholz"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Францёзиш-Буххольц"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q675015"/>
+    <tag k="wikipedia" v="de:Berlin-Französisch Buchholz"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Barnim"/>
+  </relation>
+</osm>

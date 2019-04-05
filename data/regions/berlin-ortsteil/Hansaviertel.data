@@ -1,0 +1,7 @@
+name:                    Hansaviertel
+osm-relation:            16567
+wikidata:                Q427582
+bezirk:                  Mitte
+neighbors:               Charlottenburg, Moabit, Tiergarten
+computed-centroid:       13.341795, 52.518541
+computed-area:           529404.59

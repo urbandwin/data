@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="55751">
+    <member type="way" ref="311263173" role="outer"/>
+    <member type="way" ref="270405893" role="outer"/>
+    <member type="way" ref="311263176" role="outer"/>
+    <member type="way" ref="24793085" role="outer"/>
+    <member type="way" ref="296431685" role="outer"/>
+    <member type="way" ref="312004988" role="outer"/>
+    <member type="way" ref="97468190" role="outer"/>
+    <member type="way" ref="245191319" role="outer"/>
+    <member type="way" ref="188569535" role="outer"/>
+    <member type="way" ref="25155730" role="outer"/>
+    <member type="way" ref="282410697" role="outer"/>
+    <member type="way" ref="272866117" role="outer"/>
+    <member type="way" ref="245191323" role="outer"/>
+    <member type="way" ref="305188964" role="outer"/>
+    <member type="way" ref="305188962" role="outer"/>
+    <member type="way" ref="245191327" role="outer"/>
+    <member type="way" ref="305175441" role="outer"/>
+    <member type="way" ref="305175419" role="outer"/>
+    <member type="way" ref="305175439" role="outer"/>
+    <member type="way" ref="305175436" role="outer"/>
+    <member type="way" ref="305175424" role="outer"/>
+    <member type="way" ref="305175431" role="outer"/>
+    <member type="way" ref="305175438" role="outer"/>
+    <member type="way" ref="305175445" role="outer"/>
+    <member type="way" ref="25155281" role="outer"/>
+    <member type="way" ref="25155282" role="outer"/>
+    <member type="way" ref="305248551" role="outer"/>
+    <member type="way" ref="70224117" role="outer"/>
+    <member type="way" ref="326603679" role="outer"/>
+    <member type="way" ref="326603677" role="outer"/>
+    <member type="way" ref="305248552" role="outer"/>
+    <member type="way" ref="25035025" role="outer"/>
+    <member type="way" ref="24161208" role="outer"/>
+    <member type="way" ref="97726161" role="outer"/>
+    <member type="way" ref="270405891" role="outer"/>
+    <member type="way" ref="270405892" role="outer"/>
+    <member type="way" ref="311263172" role="outer"/>
+    <member type="node" ref="28094136" role="label"/>
+    <tag k="ref" v="0701"/>
+    <tag k="name" v="Schöneberg"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="name:ru" v="Шёнеберг"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q313189"/>
+    <tag k="wikipedia" v="de:Berlin-Schöneberg"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Teltow"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="4966"/>
+  </relation>
+</osm>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="409218">
+    <member type="node" ref="560483804" role="label"/>
+    <member type="way" ref="441828976" role="outer"/>
+    <member type="way" ref="315968442" role="outer"/>
+    <member type="way" ref="441828986" role="outer"/>
+    <member type="way" ref="441828979" role="outer"/>
+    <member type="way" ref="315968441" role="outer"/>
+    <member type="way" ref="315968446" role="outer"/>
+    <member type="way" ref="315968434" role="outer"/>
+    <member type="way" ref="52044917" role="outer"/>
+    <member type="way" ref="50336548" role="outer"/>
+    <member type="way" ref="113050139" role="outer"/>
+    <member type="way" ref="316741519" role="outer"/>
+    <member type="way" ref="38329630" role="outer"/>
+    <member type="way" ref="107682734" role="outer"/>
+    <member type="way" ref="315968439" role="outer"/>
+    <member type="way" ref="315968445" role="outer"/>
+    <tag k="ref" v="0607"/>
+    <tag k="name" v="Wannsee"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Ванзе"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q1949"/>
+    <tag k="wikipedia" v="de:Berlin-Wannsee"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Teltow"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="32541"/>
+  </relation>
+</osm>

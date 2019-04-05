@@ -1,0 +1,7 @@
+name:                    Schöneberg
+osm-relation:            55751
+wikidata:                Q313189
+bezirk:                  Tempelhof-Schöneberg
+neighbors:               Charlottenburg, Friedenau, Kreuzberg, Steglitz, Tempelhof, Tiergarten, Wilmersdorf
+computed-centroid:       13.354419, 52.480156
+computed-area:           10645587.38

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="407652">
+    <member type="way" ref="304934002" role="outer"/>
+    <member type="way" ref="304935626" role="outer"/>
+    <member type="way" ref="304935625" role="outer"/>
+    <member type="way" ref="304934006" role="outer"/>
+    <member type="way" ref="304934001" role="outer"/>
+    <member type="way" ref="304933975" role="outer"/>
+    <member type="way" ref="304933982" role="outer"/>
+    <member type="way" ref="316157886" role="outer"/>
+    <member type="way" ref="49861898" role="outer"/>
+    <member type="way" ref="315566259" role="outer"/>
+    <member type="way" ref="315566257" role="outer"/>
+    <member type="way" ref="315566245" role="outer"/>
+    <member type="way" ref="315566249" role="outer"/>
+    <member type="way" ref="315566255" role="outer"/>
+    <member type="way" ref="315566250" role="outer"/>
+    <member type="way" ref="315566265" role="outer"/>
+    <member type="way" ref="315566261" role="outer"/>
+    <member type="way" ref="315566277" role="outer"/>
+    <member type="way" ref="315566256" role="outer"/>
+    <member type="way" ref="315566266" role="outer"/>
+    <member type="way" ref="293421027" role="outer"/>
+    <member type="way" ref="293421026" role="outer"/>
+    <member type="way" ref="315566270" role="outer"/>
+    <member type="way" ref="315566275" role="outer"/>
+    <member type="way" ref="315566244" role="outer"/>
+    <member type="way" ref="315566254" role="outer"/>
+    <member type="way" ref="315566260" role="outer"/>
+    <member type="way" ref="315566258" role="outer"/>
+    <member type="way" ref="315566253" role="outer"/>
+    <member type="way" ref="315566262" role="outer"/>
+    <member type="way" ref="315566267" role="outer"/>
+    <member type="way" ref="315566248" role="outer"/>
+    <member type="way" ref="315566251" role="outer"/>
+    <member type="way" ref="50217884" role="outer"/>
+    <member type="way" ref="293424982" role="outer"/>
+    <member type="way" ref="293424984" role="outer"/>
+    <member type="way" ref="293427856" role="outer"/>
+    <member type="way" ref="222535645" role="outer"/>
+    <member type="way" ref="98016878" role="outer"/>
+    <member type="way" ref="292260744" role="outer"/>
+    <member type="way" ref="281162007" role="outer"/>
+    <member type="way" ref="115947594" role="outer"/>
+    <member type="way" ref="305459727" role="outer"/>
+    <member type="way" ref="305459726" role="outer"/>
+    <member type="way" ref="273599900" role="outer"/>
+    <member type="way" ref="273599902" role="outer"/>
+    <member type="way" ref="294977108" role="outer"/>
+    <member type="way" ref="304933999" role="outer"/>
+    <member type="way" ref="304934004" role="outer"/>
+    <member type="way" ref="304933986" role="outer"/>
+    <member type="way" ref="304934010" role="outer"/>
+    <member type="node" ref="161879644" role="label"/>
+    <tag k="ref" v="0311"/>
+    <tag k="name" v="Niederschönhausen"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Нидершёнхаузен"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q512959"/>
+    <tag k="wikipedia" v="de:Berlin-Niederschönhausen"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Barnim"/>
+  </relation>
+</osm>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="404586">
+    <member type="node" ref="1673625993" role="label"/>
+    <member type="way" ref="49863778" role="outer"/>
+    <member type="way" ref="282506077" role="outer"/>
+    <member type="way" ref="282506076" role="outer"/>
+    <member type="way" ref="282756573" role="outer"/>
+    <member type="way" ref="305130016" role="outer"/>
+    <member type="way" ref="384925411" role="outer"/>
+    <member type="way" ref="384925415" role="outer"/>
+    <member type="way" ref="384925416" role="outer"/>
+    <member type="way" ref="384925417" role="outer"/>
+    <member type="way" ref="384925412" role="outer"/>
+    <member type="way" ref="384925419" role="outer"/>
+    <member type="way" ref="272031032" role="outer"/>
+    <member type="way" ref="272031034" role="outer"/>
+    <member type="way" ref="272031033" role="outer"/>
+    <member type="way" ref="44016038" role="outer"/>
+    <member type="way" ref="49803201" role="outer"/>
+    <member type="way" ref="288938874" role="outer"/>
+    <member type="way" ref="288938875" role="outer"/>
+    <member type="way" ref="300014388" role="outer"/>
+    <member type="way" ref="300014390" role="outer"/>
+    <member type="way" ref="97171861" role="outer"/>
+    <member type="way" ref="97167206" role="outer"/>
+    <member type="way" ref="97167207" role="outer"/>
+    <member type="way" ref="44016037" role="outer"/>
+    <tag k="ref" v="1003"/>
+    <tag k="name" v="Kaulsdorf"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Каульсдорф"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q665953"/>
+    <tag k="wikipedia" v="de:Berlin-Kaulsdorf"/>
+    <tag k="population" v="18675"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Barnim"/>
+  </relation>
+</osm>

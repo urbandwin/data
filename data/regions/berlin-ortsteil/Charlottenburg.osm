@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="110126">
+    <member type="way" ref="272673161" role="outer"/>
+    <member type="way" ref="272673160" role="outer"/>
+    <member type="way" ref="392904877" role="outer"/>
+    <member type="way" ref="97707256" role="outer"/>
+    <member type="way" ref="97717880" role="outer"/>
+    <member type="way" ref="270457270" role="outer"/>
+    <member type="way" ref="270457274" role="outer"/>
+    <member type="way" ref="39341830" role="outer"/>
+    <member type="way" ref="305092801" role="outer"/>
+    <member type="way" ref="305092799" role="outer"/>
+    <member type="way" ref="305092858" role="outer"/>
+    <member type="way" ref="310990705" role="outer"/>
+    <member type="way" ref="96986347" role="outer"/>
+    <member type="way" ref="305092830" role="outer"/>
+    <member type="way" ref="310509428" role="outer"/>
+    <member type="way" ref="305092851" role="outer"/>
+    <member type="way" ref="305092837" role="outer"/>
+    <member type="way" ref="305092819" role="outer"/>
+    <member type="way" ref="305092828" role="outer"/>
+    <member type="way" ref="25040797" role="outer"/>
+    <member type="way" ref="305092810" role="outer"/>
+    <member type="way" ref="305092808" role="outer"/>
+    <member type="way" ref="25035028" role="outer"/>
+    <member type="way" ref="24161208" role="outer"/>
+    <member type="way" ref="312188176" role="outer"/>
+    <member type="way" ref="384947458" role="outer"/>
+    <member type="way" ref="384947460" role="outer"/>
+    <member type="way" ref="312188177" role="outer"/>
+    <member type="way" ref="316741509" role="outer"/>
+    <member type="way" ref="316741502" role="outer"/>
+    <member type="way" ref="311296318" role="outer"/>
+    <member type="way" ref="24793086" role="outer"/>
+    <member type="node" ref="29336704" role="label"/>
+    <tag k="ref" v="0401"/>
+    <tag k="name" v="Charlottenburg"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Шарлоттенбург"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q162049"/>
+    <tag k="wikipedia" v="de:Berlin-Charlottenburg"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Berliner Urstromtal"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="4749"/>
+  </relation>
+</osm>

@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="16334">
+    <member type="way" ref="115947680" role="outer"/>
+    <member type="way" ref="50291801" role="outer"/>
+    <member type="way" ref="50291802" role="outer"/>
+    <member type="way" ref="292050662" role="outer"/>
+    <member type="way" ref="292050665" role="outer"/>
+    <member type="way" ref="24793396" role="outer"/>
+    <member type="way" ref="97998797" role="outer"/>
+    <member type="way" ref="97998790" role="outer"/>
+    <member type="way" ref="24792149" role="outer"/>
+    <member type="way" ref="20455960" role="outer"/>
+    <member type="way" ref="97994624" role="outer"/>
+    <member type="way" ref="98016884" role="outer"/>
+    <member type="way" ref="304831261" role="outer"/>
+    <member type="way" ref="304831262" role="outer"/>
+    <member type="way" ref="304831264" role="outer"/>
+    <member type="way" ref="304432719" role="outer"/>
+    <member type="way" ref="304432718" role="outer"/>
+    <member type="way" ref="24792155" role="outer"/>
+    <member type="way" ref="405963361" role="outer"/>
+    <member type="way" ref="405963360" role="outer"/>
+    <member type="way" ref="304432720" role="outer"/>
+    <member type="way" ref="405963359" role="outer"/>
+    <member type="way" ref="45010128" role="outer"/>
+    <member type="way" ref="115947594" role="outer"/>
+    <member type="way" ref="281162007" role="outer"/>
+    <member type="way" ref="292260744" role="outer"/>
+    <member type="way" ref="98016878" role="outer"/>
+    <member type="way" ref="50217883" role="outer"/>
+    <member type="way" ref="273730289" role="outer"/>
+    <member type="way" ref="273730288" role="outer"/>
+    <member type="way" ref="98016903" role="outer"/>
+    <member type="way" ref="20963229" role="outer"/>
+    <member type="way" ref="49870814" role="outer"/>
+    <member type="way" ref="25132208" role="outer"/>
+    <member type="way" ref="50217885" role="outer"/>
+    <member type="way" ref="88569864" role="outer"/>
+    <member type="way" ref="32967533" role="outer"/>
+    <member type="way" ref="133654409" role="outer"/>
+    <member type="way" ref="274591595" role="outer"/>
+    <member type="way" ref="274591594" role="outer"/>
+    <member type="way" ref="270138536" role="outer"/>
+    <member type="way" ref="274242263" role="outer"/>
+    <member type="way" ref="88569971" role="outer"/>
+    <member type="way" ref="88569977" role="outer"/>
+    <member type="way" ref="328226372" role="outer"/>
+    <member type="way" ref="328226374" role="outer"/>
+    <member type="way" ref="88569911" role="outer"/>
+    <member type="way" ref="32969956" role="outer"/>
+    <member type="way" ref="276080621" role="outer"/>
+    <member type="way" ref="128453455" role="outer"/>
+    <member type="way" ref="32970081" role="outer"/>
+    <member type="way" ref="292050658" role="outer"/>
+    <member type="way" ref="32967106" role="outer"/>
+    <member type="way" ref="24792152" role="outer"/>
+    <member type="way" ref="252904411" role="admin_centre"/>
+    <member type="node" ref="1775453664" role="label"/>
+    <tag k="ref" v="12"/>
+    <tag k="name" v="Reinickendorf"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="borough"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:he" v="רייניקנדורף"/>
+    <tag k="name:ru" v="Райниккендорф"/>
+    <tag k="name:uk" v="Райнікендорф"/>
+    <tag k="website" v="http://www.berlin.de/ba-reinickendorf/"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q158876"/>
+    <tag k="wikipedia" v="de:Bezirk Reinickendorf"/>
+    <tag k="is_in:city" v="Berlin"/>
+    <tag k="population" v="260253"/>
+    <tag k="admin_level" v="9"/>
+    <tag k="description" v="12. Verwaltungsbezirk von Berlin"/>
+    <tag k="is_in:state" v="Berlin"/>
+    <tag k="name:prefix" v="Bezirk"/>
+    <tag k="is_in:county" v="Berlin"/>
+    <tag k="is_in:region" v="Berlin"/>
+    <tag k="is_in:country" v="Deutschland"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="population:date" v="2016-06-30"/>
+    <tag k="is_in:state_code" v="BE"/>
+    <tag k="source:population" v="https://de.wikipedia.org/wiki/Bezirk_Reinickendorf"/>
+    <tag k="is_in:country_code" v="DE"/>
+    <tag k="geographical_region" v="Barnim"/>
+    <tag k="is_in:country_prefix" v="Bundesrepublik"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="4942"/>
+  </relation>
+</osm>

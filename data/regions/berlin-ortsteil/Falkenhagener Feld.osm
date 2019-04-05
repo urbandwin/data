@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="409212">
+    <member type="node" ref="161548665" role="label"/>
+    <member type="way" ref="38329464" role="outer"/>
+    <member type="way" ref="50291800" role="outer"/>
+    <member type="way" ref="38329454" role="outer"/>
+    <member type="way" ref="38329456" role="outer"/>
+    <member type="way" ref="316688848" role="outer"/>
+    <member type="way" ref="316688847" role="outer"/>
+    <member type="way" ref="316688851" role="outer"/>
+    <tag k="ref" v="0508"/>
+    <tag k="name" v="Falkenhagener Feld"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Фалькенхагенер Фельд"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q559222"/>
+    <tag k="wikipedia" v="de:Berlin-Falkenhagener Feld"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Berliner Urstromtal"/>
+  </relation>
+</osm>

@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="55764">
+    <member type="way" ref="460523348" role="outer"/>
+    <member type="way" ref="269325560" role="outer"/>
+    <member type="way" ref="318031549" role="outer"/>
+    <member type="way" ref="318031548" role="outer"/>
+    <member type="way" ref="328336972" role="outer"/>
+    <member type="way" ref="328336970" role="outer"/>
+    <member type="way" ref="97506329" role="outer"/>
+    <member type="way" ref="26139142" role="outer"/>
+    <member type="way" ref="97504006" role="outer"/>
+    <member type="way" ref="269340408" role="outer"/>
+    <member type="way" ref="316820286" role="outer"/>
+    <member type="way" ref="152442786" role="outer"/>
+    <member type="way" ref="269336017" role="outer"/>
+    <member type="way" ref="269336018" role="outer"/>
+    <member type="way" ref="269336386" role="outer"/>
+    <member type="way" ref="269336384" role="outer"/>
+    <member type="way" ref="97621573" role="outer"/>
+    <member type="way" ref="97602700" role="outer"/>
+    <member type="way" ref="97602678" role="outer"/>
+    <member type="way" ref="305213394" role="outer"/>
+    <member type="way" ref="305213393" role="outer"/>
+    <member type="way" ref="272890648" role="outer"/>
+    <member type="way" ref="272890647" role="outer"/>
+    <member type="way" ref="97621601" role="outer"/>
+    <member type="way" ref="97605950" role="outer"/>
+    <member type="way" ref="24793311" role="outer"/>
+    <member type="way" ref="272890650" role="outer"/>
+    <member type="way" ref="296431685" role="outer"/>
+    <member type="way" ref="312004988" role="outer"/>
+    <member type="way" ref="97468190" role="outer"/>
+    <member type="way" ref="245191319" role="outer"/>
+    <member type="way" ref="188569535" role="outer"/>
+    <member type="way" ref="25155730" role="outer"/>
+    <member type="way" ref="318666227" role="outer"/>
+    <member type="way" ref="97211252" role="outer"/>
+    <member type="way" ref="269637997" role="outer"/>
+    <member type="way" ref="189102971" role="outer"/>
+    <member type="way" ref="269638000" role="outer"/>
+    <member type="way" ref="269639291" role="outer"/>
+    <member type="way" ref="305188965" role="outer"/>
+    <member type="way" ref="305188960" role="outer"/>
+    <member type="way" ref="97602684" role="outer"/>
+    <member type="way" ref="97219742" role="outer"/>
+    <member type="way" ref="270171401" role="outer"/>
+    <member type="way" ref="311986518" role="outer"/>
+    <member type="way" ref="311986509" role="outer"/>
+    <member type="way" ref="311986516" role="outer"/>
+    <member type="way" ref="311986510" role="outer"/>
+    <member type="way" ref="311986506" role="outer"/>
+    <member type="way" ref="311986515" role="outer"/>
+    <member type="way" ref="311986513" role="outer"/>
+    <member type="way" ref="311986511" role="outer"/>
+    <member type="way" ref="311986508" role="outer"/>
+    <member type="way" ref="311986512" role="outer"/>
+    <member type="way" ref="311986507" role="outer"/>
+    <member type="way" ref="311986514" role="outer"/>
+    <member type="way" ref="269897058" role="outer"/>
+    <member type="way" ref="323881215" role="outer"/>
+    <member type="way" ref="269897056" role="outer"/>
+    <member type="way" ref="97219737" role="outer"/>
+    <member type="way" ref="323881217" role="outer"/>
+    <member type="way" ref="97219741" role="outer"/>
+    <member type="way" ref="317367136" role="outer"/>
+    <member type="way" ref="24793701" role="outer"/>
+    <member type="way" ref="97602691" role="outer"/>
+    <member type="way" ref="24793695" role="outer"/>
+    <member type="way" ref="175726485" role="outer"/>
+    <member type="way" ref="97503997" role="outer"/>
+    <member type="way" ref="432785721" role="outer"/>
+    <member type="way" ref="50336555" role="outer"/>
+    <member type="way" ref="269323291" role="outer"/>
+    <member type="way" ref="188569531" role="outer"/>
+    <member type="way" ref="97495030" role="outer"/>
+    <member type="way" ref="191375282" role="outer"/>
+    <member type="way" ref="38318544" role="outer"/>
+    <member type="way" ref="280533064" role="outer"/>
+    <member type="node" ref="667712670" role="admin_centre"/>
+    <member type="node" ref="1776512892" role="admin_centre"/>
+    <member type="node" ref="616223457" role="admin_centre"/>
+    <member type="node" ref="1421159807" role="label"/>
+    <tag k="ref" v="02"/>
+    <tag k="name" v="Friedrichshain-Kreuzberg"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="borough"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Фридрихсхайн-Кройцберг"/>
+    <tag k="website" v="http://www.berlin.de/ba-friedrichshain-kreuzberg/"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q158893"/>
+    <tag k="wikipedia" v="de:Bezirk Friedrichshain-Kreuzberg"/>
+    <tag k="is_in:city" v="Berlin"/>
+    <tag k="admin_level" v="9"/>
+    <tag k="description" v="2. Verwaltungsbezirk von Berlin"/>
+    <tag k="is_in:state" v="Berlin"/>
+    <tag k="name:prefix" v="Bezirk"/>
+    <tag k="is_in:county" v="Berlin"/>
+    <tag k="is_in:region" v="Berlin"/>
+    <tag k="is_in:country" v="Deutschland"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:state_code" v="BE"/>
+    <tag k="postal_addr:city" v="Berlin"/>
+    <tag k="postal_addr:note" v="Angabe von &quot;Bürgeramt x&quot; (1,2,3) für gezielte Anschrift möglich."/>
+    <tag k="is_in:country_code" v="DE"/>
+    <tag k="postal_addr:street" v="Postfach 35 07 01"/>
+    <tag k="geographical_region" v="Berliner Urstromtal"/>
+    <tag k="postal_addr:country" v="DE"/>
+    <tag k="is_in:country_prefix" v="Bundesrepublik"/>
+    <tag k="postal_addr:postcode" v="10216"/>
+    <tag k="postal_addr:housename" v="Bezirksamt Friedrichshain-Kreuzberg von Berlin"/>
+  </relation>
+</osm>

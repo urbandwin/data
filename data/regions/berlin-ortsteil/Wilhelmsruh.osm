@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="407650">
+    <member type="way" ref="273730288" role="outer"/>
+    <member type="way" ref="98016903" role="outer"/>
+    <member type="way" ref="20963229" role="outer"/>
+    <member type="way" ref="43946330" role="outer"/>
+    <member type="way" ref="50217884" role="outer"/>
+    <member type="way" ref="293424982" role="outer"/>
+    <member type="way" ref="293424984" role="outer"/>
+    <member type="way" ref="293427856" role="outer"/>
+    <member type="way" ref="222535645" role="outer"/>
+    <member type="way" ref="50217883" role="outer"/>
+    <member type="way" ref="273730289" role="outer"/>
+    <member type="node" ref="161585770" role="label"/>
+    <tag k="ref" v="0313"/>
+    <tag k="name" v="Wilhelmsruh"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:de" v="Wilhelmsruh"/>
+    <tag k="name:ru" v="Вильгельмсру"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q648000"/>
+    <tag k="wikipedia" v="de:Berlin-Wilhelmsruh"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Barnim"/>
+  </relation>
+</osm>

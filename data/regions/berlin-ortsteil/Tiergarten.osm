@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="55750">
+    <member type="way" ref="311263173" role="outer"/>
+    <member type="way" ref="270405893" role="outer"/>
+    <member type="way" ref="311263176" role="outer"/>
+    <member type="way" ref="24793085" role="outer"/>
+    <member type="way" ref="272890650" role="outer"/>
+    <member type="way" ref="24793311" role="outer"/>
+    <member type="way" ref="74683406" role="outer"/>
+    <member type="way" ref="280606162" role="outer"/>
+    <member type="way" ref="271004402" role="outer"/>
+    <member type="way" ref="271004399" role="outer"/>
+    <member type="way" ref="328336233" role="outer"/>
+    <member type="way" ref="328336234" role="outer"/>
+    <member type="way" ref="272608107" role="outer"/>
+    <member type="way" ref="272608110" role="outer"/>
+    <member type="way" ref="97707244" role="outer"/>
+    <member type="way" ref="24793307" role="outer"/>
+    <member type="way" ref="32110410" role="outer"/>
+    <member type="way" ref="311296311" role="outer"/>
+    <member type="way" ref="316974322" role="outer"/>
+    <member type="way" ref="311460692" role="outer"/>
+    <member type="way" ref="24793086" role="outer"/>
+    <member type="way" ref="311296318" role="outer"/>
+    <member type="way" ref="316741502" role="outer"/>
+    <member type="way" ref="316741509" role="outer"/>
+    <member type="way" ref="312188177" role="outer"/>
+    <member type="way" ref="384947460" role="outer"/>
+    <member type="way" ref="384947458" role="outer"/>
+    <member type="way" ref="312188176" role="outer"/>
+    <member type="way" ref="97726161" role="outer"/>
+    <member type="way" ref="270405891" role="outer"/>
+    <member type="way" ref="270405892" role="outer"/>
+    <member type="way" ref="311263172" role="outer"/>
+    <member type="node" ref="667888029" role="admin_centre"/>
+    <member type="node" ref="275368512" role="admin_centre"/>
+    <member type="node" ref="160330614" role="label"/>
+    <tag k="ref" v="0104"/>
+    <tag k="name" v="Tiergarten"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Тиргартен"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q328672"/>
+    <tag k="wikipedia" v="de:Berlin-Tiergarten"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Berliner Urstromtal"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="4987"/>
+  </relation>
+</osm>

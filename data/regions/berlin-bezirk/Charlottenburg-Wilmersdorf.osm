@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="404538">
+    <member type="way" ref="24793086" role="outer"/>
+    <member type="way" ref="311296318" role="outer"/>
+    <member type="way" ref="316741502" role="outer"/>
+    <member type="way" ref="316741509" role="outer"/>
+    <member type="way" ref="312188177" role="outer"/>
+    <member type="way" ref="384947460" role="outer"/>
+    <member type="way" ref="384947458" role="outer"/>
+    <member type="way" ref="312188176" role="outer"/>
+    <member type="way" ref="24161208" role="outer"/>
+    <member type="way" ref="25035025" role="outer"/>
+    <member type="way" ref="305248552" role="outer"/>
+    <member type="way" ref="326603677" role="outer"/>
+    <member type="way" ref="326603679" role="outer"/>
+    <member type="way" ref="158084129" role="outer"/>
+    <member type="way" ref="70120694" role="outer"/>
+    <member type="way" ref="70120012" role="outer"/>
+    <member type="way" ref="305265128" role="outer"/>
+    <member type="way" ref="305265129" role="outer"/>
+    <member type="way" ref="305265132" role="outer"/>
+    <member type="way" ref="305261863" role="outer"/>
+    <member type="way" ref="305261865" role="outer"/>
+    <member type="way" ref="305261866" role="outer"/>
+    <member type="way" ref="305261867" role="outer"/>
+    <member type="way" ref="305261861" role="outer"/>
+    <member type="way" ref="305261868" role="outer"/>
+    <member type="way" ref="305261862" role="outer"/>
+    <member type="way" ref="305261864" role="outer"/>
+    <member type="way" ref="158184095" role="outer"/>
+    <member type="way" ref="158184085" role="outer"/>
+    <member type="way" ref="316741503" role="outer"/>
+    <member type="way" ref="316741517" role="outer"/>
+    <member type="way" ref="316741511" role="outer"/>
+    <member type="way" ref="316741505" role="outer"/>
+    <member type="way" ref="107957623" role="outer"/>
+    <member type="way" ref="305092814" role="outer"/>
+    <member type="way" ref="25156778" role="outer"/>
+    <member type="way" ref="25156776" role="outer"/>
+    <member type="way" ref="305092824" role="outer"/>
+    <member type="way" ref="107705403" role="outer"/>
+    <member type="way" ref="24793699" role="outer"/>
+    <member type="way" ref="49801643" role="outer"/>
+    <member type="way" ref="304488113" role="outer"/>
+    <member type="way" ref="96986376" role="outer"/>
+    <member type="way" ref="316702560" role="outer"/>
+    <member type="way" ref="25467349" role="outer"/>
+    <member type="way" ref="49801636" role="outer"/>
+    <member type="way" ref="246159212" role="outer"/>
+    <member type="way" ref="305341748" role="outer"/>
+    <member type="way" ref="305341744" role="outer"/>
+    <member type="way" ref="305341745" role="outer"/>
+    <member type="way" ref="305341743" role="outer"/>
+    <member type="way" ref="304488111" role="outer"/>
+    <member type="way" ref="292050668" role="outer"/>
+    <member type="way" ref="50291803" role="outer"/>
+    <member type="way" ref="306898833" role="outer"/>
+    <member type="way" ref="310990704" role="outer"/>
+    <member type="way" ref="305092823" role="outer"/>
+    <member type="way" ref="305092825" role="outer"/>
+    <member type="way" ref="306904920" role="outer"/>
+    <member type="way" ref="24793396" role="outer"/>
+    <member type="way" ref="97998797" role="outer"/>
+    <member type="way" ref="97998790" role="outer"/>
+    <member type="way" ref="188388728" role="outer"/>
+    <member type="way" ref="166099026" role="outer"/>
+    <member type="way" ref="150524254" role="outer"/>
+    <member type="way" ref="304849074" role="outer"/>
+    <member type="way" ref="304488110" role="outer"/>
+    <member type="way" ref="24793301" role="outer"/>
+    <member type="way" ref="39341830" role="outer"/>
+    <member type="way" ref="270457274" role="outer"/>
+    <member type="way" ref="270457270" role="outer"/>
+    <member type="way" ref="97717880" role="outer"/>
+    <member type="way" ref="392904877" role="outer"/>
+    <member type="way" ref="97707256" role="outer"/>
+    <member type="way" ref="272673160" role="outer"/>
+    <member type="way" ref="272673161" role="outer"/>
+    <member type="node" ref="1777651455" role="admin_centre"/>
+    <member type="node" ref="1777651453" role="label"/>
+    <tag k="ref" v="04"/>
+    <tag k="name" v="Charlottenburg-Wilmersdorf"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="borough"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Шарлоттенбург-Вильмерсдорф"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q158095"/>
+    <tag k="wikipedia" v="de:Bezirk Charlottenburg-Wilmersdorf"/>
+    <tag k="is_in:city" v="Berlin"/>
+    <tag k="admin_level" v="9"/>
+    <tag k="description" v="4. Verwaltungsbezirk von Berlin"/>
+    <tag k="is_in:state" v="Berlin"/>
+    <tag k="name:prefix" v="Bezirk"/>
+    <tag k="is_in:county" v="Berlin"/>
+    <tag k="is_in:region" v="Berlin"/>
+    <tag k="is_in:country" v="Deutschland"/>
+    <tag k="contact:website" v="http://www.berlin.de/ba-charlottenburg-wilmersdorf/"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="is_in:state_code" v="BE"/>
+    <tag k="postal_addr:city" v="Berlin"/>
+    <tag k="is_in:country_code" v="DE"/>
+    <tag k="postal_addr:street" v="Otto-Suhr-Allee"/>
+    <tag k="geographical_region" v="Teltow"/>
+    <tag k="postal_addr:country" v="DE"/>
+    <tag k="is_in:country_prefix" v="Bundesrepublik"/>
+    <tag k="postal_addr:postcode" v="10585"/>
+    <tag k="postal_addr:housename" v="Bezirksamt Charlottenburg-Wilmersdorf von Berlin"/>
+    <tag k="postal_addr:housenumber" v="100"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="32812"/>
+  </relation>
+</osm>

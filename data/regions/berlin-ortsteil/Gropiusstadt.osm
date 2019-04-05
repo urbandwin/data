@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="409215">
+    <member type="way" ref="27445834" role="outer"/>
+    <member type="way" ref="315222034" role="outer"/>
+    <member type="way" ref="32970782" role="outer"/>
+    <member type="way" ref="38333898" role="outer"/>
+    <member type="way" ref="38333899" role="outer"/>
+    <member type="way" ref="316843022" role="outer"/>
+    <member type="way" ref="316843021" role="outer"/>
+    <member type="way" ref="38333900" role="outer"/>
+    <member type="way" ref="185887466" role="outer"/>
+    <member type="way" ref="185887464" role="outer"/>
+    <member type="way" ref="311222438" role="outer"/>
+    <member type="way" ref="97208143" role="outer"/>
+    <member type="way" ref="97176307" role="outer"/>
+    <member type="way" ref="239994627" role="outer"/>
+    <member type="way" ref="273147264" role="outer"/>
+    <member type="way" ref="273147262" role="outer"/>
+    <member type="node" ref="162010487" role="label"/>
+    <tag k="ref" v="0805"/>
+    <tag k="name" v="Gropiusstadt"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="name:ru" v="Гропиусштадт"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q677917"/>
+    <tag k="wikipedia" v="de:Berlin-Gropiusstadt"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Teltow"/>
+  </relation>
+</osm>

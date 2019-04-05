@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="55759">
+    <member type="node" ref="28795490" role="label"/>
+    <member type="way" ref="24229785" role="outer"/>
+    <member type="way" ref="25138446" role="outer"/>
+    <member type="way" ref="280678619" role="outer"/>
+    <member type="way" ref="24229980" role="outer"/>
+    <member type="way" ref="310798927" role="outer"/>
+    <member type="way" ref="304681963" role="outer"/>
+    <member type="way" ref="25139779" role="outer"/>
+    <member type="way" ref="50336553" role="outer"/>
+    <tag k="ref" v="0905"/>
+    <tag k="name" v="Niederschöneweide"/>
+    <tag k="type" v="boundary"/>
+    <tag k="name:ru" v="Нидершёневайде"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q644062"/>
+    <tag k="wikipedia" v="de:Berlin-Niederschöneweide"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Berliner Urstromtal"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="32790"/>
+  </relation>
+</osm>

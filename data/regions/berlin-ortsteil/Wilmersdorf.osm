@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="55740">
+    <member type="node" ref="1777651455" role="admin_centre"/>
+    <member type="node" ref="361001240" role="admin_centre"/>
+    <member type="node" ref="28891708" role="label"/>
+    <member type="way" ref="25035028" role="outer"/>
+    <member type="way" ref="305092808" role="outer"/>
+    <member type="way" ref="305092810" role="outer"/>
+    <member type="way" ref="305092800" role="outer"/>
+    <member type="way" ref="305092811" role="outer"/>
+    <member type="way" ref="25040796" role="outer"/>
+    <member type="way" ref="305092809" role="outer"/>
+    <member type="way" ref="305092797" role="outer"/>
+    <member type="way" ref="305092806" role="outer"/>
+    <member type="way" ref="305092804" role="outer"/>
+    <member type="way" ref="305092813" role="outer"/>
+    <member type="way" ref="25043334" role="outer"/>
+    <member type="way" ref="158184085" role="outer"/>
+    <member type="way" ref="158184095" role="outer"/>
+    <member type="way" ref="305261864" role="outer"/>
+    <member type="way" ref="305261862" role="outer"/>
+    <member type="way" ref="305261868" role="outer"/>
+    <member type="way" ref="305261861" role="outer"/>
+    <member type="way" ref="305261867" role="outer"/>
+    <member type="way" ref="305261866" role="outer"/>
+    <member type="way" ref="305261865" role="outer"/>
+    <member type="way" ref="305261863" role="outer"/>
+    <member type="way" ref="305265132" role="outer"/>
+    <member type="way" ref="305265129" role="outer"/>
+    <member type="way" ref="305265128" role="outer"/>
+    <member type="way" ref="70120012" role="outer"/>
+    <member type="way" ref="70120694" role="outer"/>
+    <member type="way" ref="158084129" role="outer"/>
+    <member type="way" ref="326603679" role="outer"/>
+    <member type="way" ref="326603677" role="outer"/>
+    <member type="way" ref="305248552" role="outer"/>
+    <member type="way" ref="25035025" role="outer"/>
+    <tag k="ref" v="0402"/>
+    <tag k="name" v="Wilmersdorf"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Вильмерсдорф"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q693628"/>
+    <tag k="wikipedia" v="de:Berlin-Wilmersdorf"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Teltow"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="32544"/>
+  </relation>
+</osm>

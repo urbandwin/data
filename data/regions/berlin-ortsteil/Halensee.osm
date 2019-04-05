@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="55741">
+    <member type="node" ref="1777651455" role="admin_centre"/>
+    <member type="node" ref="361001240" role="admin_centre"/>
+    <member type="node" ref="29336992" role="label"/>
+    <member type="way" ref="25040796" role="outer"/>
+    <member type="way" ref="305092811" role="outer"/>
+    <member type="way" ref="305092800" role="outer"/>
+    <member type="way" ref="25040797" role="outer"/>
+    <member type="way" ref="305092828" role="outer"/>
+    <member type="way" ref="305092819" role="outer"/>
+    <member type="way" ref="305092837" role="outer"/>
+    <member type="way" ref="305092851" role="outer"/>
+    <member type="way" ref="25035706" role="outer"/>
+    <member type="way" ref="305092845" role="outer"/>
+    <member type="way" ref="305092840" role="outer"/>
+    <member type="way" ref="188562937" role="outer"/>
+    <member type="way" ref="305092809" role="outer"/>
+    <tag k="ref" v="0407"/>
+    <tag k="name" v="Halensee"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Халензее"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q651009"/>
+    <tag k="wikipedia" v="de:Berlin-Halensee"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Teltow"/>
+  </relation>
+</osm>

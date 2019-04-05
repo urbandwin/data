@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="55738">
+    <member type="way" ref="316749018" role="outer"/>
+    <member type="way" ref="316749025" role="outer"/>
+    <member type="way" ref="25043164" role="outer"/>
+    <member type="way" ref="25156165" role="outer"/>
+    <member type="way" ref="305574681" role="outer"/>
+    <member type="way" ref="305574677" role="outer"/>
+    <member type="way" ref="115947726" role="outer"/>
+    <member type="way" ref="305657112" role="outer"/>
+    <member type="way" ref="305657422" role="outer"/>
+    <member type="way" ref="305657429" role="outer"/>
+    <member type="way" ref="305657420" role="outer"/>
+    <member type="way" ref="305575241" role="outer"/>
+    <member type="way" ref="305575250" role="outer"/>
+    <member type="way" ref="305575259" role="outer"/>
+    <member type="way" ref="305575263" role="outer"/>
+    <member type="way" ref="25156408" role="outer"/>
+    <member type="way" ref="25156778" role="outer"/>
+    <member type="way" ref="305092814" role="outer"/>
+    <member type="way" ref="107957623" role="outer"/>
+    <member type="way" ref="316741505" role="outer"/>
+    <member type="way" ref="316741511" role="outer"/>
+    <member type="way" ref="316741517" role="outer"/>
+    <member type="way" ref="316741503" role="outer"/>
+    <member type="way" ref="158184085" role="outer"/>
+    <member type="way" ref="305092805" role="outer"/>
+    <member type="way" ref="305092818" role="outer"/>
+    <member type="node" ref="31901451" role="label"/>
+    <tag k="ref" v="0605"/>
+    <tag k="name" v="Dahlem"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Далем"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q700541"/>
+    <tag k="wikipedia" v="de:Berlin-Dahlem"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Teltow"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="32542"/>
+  </relation>
+</osm>

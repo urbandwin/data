@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="16343">
+    <member type="way" ref="98035898" role="outer"/>
+    <member type="way" ref="315222038" role="outer"/>
+    <member type="way" ref="77487568" role="outer"/>
+    <member type="way" ref="315222039" role="outer"/>
+    <member type="way" ref="77913336" role="outer"/>
+    <member type="way" ref="50291800" role="outer"/>
+    <member type="way" ref="98035862" role="outer"/>
+    <member type="way" ref="188563935" role="outer"/>
+    <member type="way" ref="406181414" role="outer"/>
+    <member type="way" ref="406181413" role="outer"/>
+    <member type="way" ref="29412695" role="outer"/>
+    <member type="way" ref="131628376" role="outer"/>
+    <member type="way" ref="24792152" role="outer"/>
+    <member type="way" ref="115947680" role="outer"/>
+    <member type="way" ref="50291801" role="outer"/>
+    <member type="way" ref="50291802" role="outer"/>
+    <member type="way" ref="292050662" role="outer"/>
+    <member type="way" ref="292050665" role="outer"/>
+    <member type="way" ref="306904920" role="outer"/>
+    <member type="way" ref="305092825" role="outer"/>
+    <member type="way" ref="305092823" role="outer"/>
+    <member type="way" ref="310990704" role="outer"/>
+    <member type="way" ref="306898833" role="outer"/>
+    <member type="way" ref="50291803" role="outer"/>
+    <member type="way" ref="292050668" role="outer"/>
+    <member type="way" ref="304488111" role="outer"/>
+    <member type="way" ref="305341743" role="outer"/>
+    <member type="way" ref="305341745" role="outer"/>
+    <member type="way" ref="305341744" role="outer"/>
+    <member type="way" ref="305341748" role="outer"/>
+    <member type="way" ref="246159212" role="outer"/>
+    <member type="way" ref="49801636" role="outer"/>
+    <member type="way" ref="25467349" role="outer"/>
+    <member type="way" ref="316702560" role="outer"/>
+    <member type="way" ref="96986376" role="outer"/>
+    <member type="way" ref="304488113" role="outer"/>
+    <member type="way" ref="49801643" role="outer"/>
+    <member type="way" ref="24793699" role="outer"/>
+    <member type="way" ref="50336546" role="outer"/>
+    <member type="way" ref="113050138" role="outer"/>
+    <member type="way" ref="107710366" role="outer"/>
+    <member type="way" ref="107682734" role="outer"/>
+    <member type="way" ref="315968440" role="outer"/>
+    <member type="way" ref="315945259" role="outer"/>
+    <member type="way" ref="315945262" role="outer"/>
+    <member type="way" ref="29413660" role="outer"/>
+    <member type="way" ref="77501737" role="outer"/>
+    <member type="node" ref="257709147" role="label"/>
+    <member type="relation" ref="3764853" role="admin_centre"/>
+    <tag k="ref" v="05"/>
+    <tag k="name" v="Spandau"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="borough"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Шпандау"/>
+    <tag k="website" v="http://www.berlin.de/ba-spandau/"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q158083"/>
+    <tag k="wikipedia" v="de:Bezirk Spandau"/>
+    <tag k="is_in:city" v="Berlin"/>
+    <tag k="population" v="238278"/>
+    <tag k="admin_level" v="9"/>
+    <tag k="description" v="5. Verwaltungsbezirk von Berlin"/>
+    <tag k="is_in:state" v="Berlin"/>
+    <tag k="name:prefix" v="Bezirk"/>
+    <tag k="is_in:county" v="Berlin"/>
+    <tag k="is_in:region" v="Berlin"/>
+    <tag k="is_in:country" v="Deutschland"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="population:date" v="2016-06-30"/>
+    <tag k="is_in:state_code" v="BE"/>
+    <tag k="postal_addr:city" v="Berlin"/>
+    <tag k="source:population" v="https://de.wikipedia.org/wiki/Bezirk_Spandau"/>
+    <tag k="is_in:country_code" v="DE"/>
+    <tag k="postal_addr:street" v="Carl-Schurz-Straße"/>
+    <tag k="geographical_region" v="Berliner Urstromtal"/>
+    <tag k="postal_addr:country" v="DE"/>
+    <tag k="is_in:country_prefix" v="Bundesrepublik"/>
+    <tag k="postal_addr:postcode" v="13597"/>
+    <tag k="postal_addr:housename" v="Bezirksamt Spandau von Berlin"/>
+    <tag k="postal_addr:housenumber" v="2/6"/>
+  </relation>
+</osm>

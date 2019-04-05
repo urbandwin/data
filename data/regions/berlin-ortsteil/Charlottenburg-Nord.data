@@ -1,0 +1,7 @@
+name:                    Charlottenburg-Nord
+osm-relation:            16346
+wikidata:                Q659451
+bezirk:                  Charlottenburg-Wilmersdorf
+neighbors:               Charlottenburg, Moabit, Siemensstadt, Tegel, Wedding, Westend
+computed-centroid:       13.297541, 52.540544
+computed-area:           6186630.14

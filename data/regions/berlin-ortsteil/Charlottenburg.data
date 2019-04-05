@@ -1,0 +1,7 @@
+name:                    Charlottenburg
+osm-relation:            110126
+wikidata:                Q162049
+bezirk:                  Charlottenburg-Wilmersdorf
+neighbors:               Charlottenburg-Nord, Grunewald, Halensee, Hansaviertel, Moabit, Schöneberg, Tiergarten, Westend, Wilmersdorf
+computed-centroid:       13.307260, 52.514270
+computed-area:           10572638.72

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="164713">
+    <member type="node" ref="29621202" role="label"/>
+    <member type="way" ref="282793189" role="outer"/>
+    <member type="way" ref="49803200" role="outer"/>
+    <member type="way" ref="282756576" role="outer"/>
+    <member type="way" ref="384925415" role="outer"/>
+    <member type="way" ref="384925416" role="outer"/>
+    <member type="way" ref="384925417" role="outer"/>
+    <member type="way" ref="384925412" role="outer"/>
+    <member type="way" ref="384925419" role="outer"/>
+    <member type="way" ref="272031032" role="outer"/>
+    <member type="way" ref="272031034" role="outer"/>
+    <member type="way" ref="272031033" role="outer"/>
+    <member type="way" ref="44016038" role="outer"/>
+    <member type="way" ref="44016035" role="outer"/>
+    <member type="way" ref="44017865" role="outer"/>
+    <member type="way" ref="90738886" role="outer"/>
+    <member type="way" ref="90738836" role="outer"/>
+    <member type="way" ref="384925426" role="outer"/>
+    <tag k="ref" v="1004"/>
+    <tag k="name" v="Mahlsdorf"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Мальсдорф"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q563837"/>
+    <tag k="wikipedia" v="de:Berlin-Mahlsdorf"/>
+    <tag k="population" v="26976"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Barnim"/>
+  </relation>
+</osm>

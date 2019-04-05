@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="157665">
+    <member type="way" ref="115947503" role="outer"/>
+    <member type="way" ref="304760811" role="outer"/>
+    <member type="way" ref="304760812" role="outer"/>
+    <member type="way" ref="304760809" role="outer"/>
+    <member type="way" ref="304760813" role="outer"/>
+    <member type="way" ref="304760810" role="outer"/>
+    <member type="way" ref="69078375" role="outer"/>
+    <member type="way" ref="304760807" role="outer"/>
+    <member type="way" ref="304760792" role="outer"/>
+    <member type="way" ref="304760789" role="outer"/>
+    <member type="way" ref="304760782" role="outer"/>
+    <member type="way" ref="320823298" role="outer"/>
+    <member type="way" ref="32970651" role="outer"/>
+    <member type="way" ref="69244504" role="outer"/>
+    <member type="way" ref="279645262" role="outer"/>
+    <member type="way" ref="29413044" role="outer"/>
+    <member type="way" ref="69358437" role="outer"/>
+    <member type="way" ref="36334189" role="outer"/>
+    <member type="way" ref="279697730" role="outer"/>
+    <member type="way" ref="36224135" role="outer"/>
+    <member type="way" ref="304760800" role="outer"/>
+    <member type="way" ref="304760790" role="outer"/>
+    <member type="way" ref="304760787" role="outer"/>
+    <member type="way" ref="189443227" role="outer"/>
+    <member type="way" ref="25414825" role="outer"/>
+    <member type="node" ref="1676561729" role="label"/>
+    <tag k="ref" v="0706"/>
+    <tag k="name" v="Lichtenrade"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="name:ru" v="Лихтенраде"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q821101"/>
+    <tag k="wikipedia" v="de:Berlin-Lichtenrade"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Teltow"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="32534"/>
+  </relation>
+</osm>

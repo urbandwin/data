@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="409234">
+    <member type="way" ref="252904411" role="admin_centre"/>
+    <member type="node" ref="145752097" role="label"/>
+    <member type="way" ref="50217885" role="outer"/>
+    <member type="way" ref="88569864" role="outer"/>
+    <member type="way" ref="32967533" role="outer"/>
+    <member type="way" ref="133654409" role="outer"/>
+    <member type="way" ref="25132042" role="outer"/>
+    <member type="way" ref="25132206" role="outer"/>
+    <member type="way" ref="25132205" role="outer"/>
+    <member type="way" ref="316145105" role="outer"/>
+    <member type="way" ref="316145109" role="outer"/>
+    <member type="way" ref="316145108" role="outer"/>
+    <member type="way" ref="316145114" role="outer"/>
+    <member type="way" ref="25132208" role="outer"/>
+    <tag k="ref" v="1208"/>
+    <tag k="name" v="Lübars"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Любарс"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q563664"/>
+    <tag k="wikipedia" v="de:Berlin-Lübars"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Barnim"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="32948"/>
+  </relation>
+</osm>

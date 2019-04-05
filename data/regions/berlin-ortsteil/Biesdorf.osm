@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="409208">
+    <member type="node" ref="529808088" role="label"/>
+    <member type="way" ref="44016041" role="outer"/>
+    <member type="way" ref="299994165" role="outer"/>
+    <member type="way" ref="299994167" role="outer"/>
+    <member type="way" ref="97173639" role="outer"/>
+    <member type="way" ref="300072462" role="outer"/>
+    <member type="way" ref="49863777" role="outer"/>
+    <member type="way" ref="97458455" role="outer"/>
+    <member type="way" ref="50336557" role="outer"/>
+    <member type="way" ref="37785016" role="outer"/>
+    <member type="way" ref="44016037" role="outer"/>
+    <member type="way" ref="44016040" role="outer"/>
+    <member type="way" ref="351681135" role="outer"/>
+    <member type="way" ref="351681134" role="outer"/>
+    <tag k="ref" v="1002"/>
+    <tag k="name" v="Biesdorf"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Бисдорф"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q666141"/>
+    <tag k="wikipedia" v="de:Berlin-Biesdorf"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Barnim"/>
+  </relation>
+</osm>

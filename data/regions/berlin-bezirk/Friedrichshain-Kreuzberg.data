@@ -1,0 +1,6 @@
+name:                    Friedrichshain-Kreuzberg
+osm-relation:            55764
+wikidata:                Q158893
+neighbors:               Lichtenberg, Mitte, Neukölln, Pankow, Tempelhof-Schöneberg, Treptow-Köpenick
+computed-centroid:       13.428177, 52.503821
+computed-area:           20320898.44

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="55758">
+    <member type="node" ref="331138541" role="label"/>
+    <member type="way" ref="24229980" role="outer"/>
+    <member type="way" ref="280678619" role="outer"/>
+    <member type="way" ref="280371527" role="outer"/>
+    <member type="way" ref="280371531" role="outer"/>
+    <member type="way" ref="24149366" role="outer"/>
+    <member type="way" ref="24826152" role="outer"/>
+    <member type="way" ref="311222437" role="outer"/>
+    <member type="way" ref="25138444" role="outer"/>
+    <tag k="ref" v="0904"/>
+    <tag k="name" v="Johannisthal"/>
+    <tag k="type" v="boundary"/>
+    <tag k="name:de" v="Johannisthal"/>
+    <tag k="name:ru" v="Йоханнисталь"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q655012"/>
+    <tag k="wikipedia" v="de:Berlin-Johannisthal"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Berliner Urstromtal"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="32528"/>
+  </relation>
+</osm>

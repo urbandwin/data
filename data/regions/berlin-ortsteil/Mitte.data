@@ -1,0 +1,7 @@
+name:                    Mitte
+osm-relation:            16566
+wikidata:                Q2013767
+bezirk:                  Mitte
+neighbors:               Friedrichshain, Gesundbrunnen, Kreuzberg, Moabit, Prenzlauer Berg, Tiergarten, Wedding
+computed-centroid:       13.397914, 52.521330
+computed-area:           10693243.45

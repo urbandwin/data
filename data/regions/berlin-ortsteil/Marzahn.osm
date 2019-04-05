@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="404584">
+    <member type="way" ref="126556513" role="outer"/>
+    <member type="way" ref="97173641" role="outer"/>
+    <member type="way" ref="97171860" role="outer"/>
+    <member type="way" ref="44016039" role="outer"/>
+    <member type="way" ref="44016041" role="outer"/>
+    <member type="way" ref="299994165" role="outer"/>
+    <member type="way" ref="299994167" role="outer"/>
+    <member type="way" ref="97173639" role="outer"/>
+    <member type="way" ref="300072462" role="outer"/>
+    <member type="way" ref="42048477" role="outer"/>
+    <member type="way" ref="50336554" role="outer"/>
+    <member type="way" ref="38318545" role="outer"/>
+    <member type="way" ref="44020342" role="outer"/>
+    <member type="way" ref="44020362" role="outer"/>
+    <member type="way" ref="97173647" role="outer"/>
+    <member type="way" ref="37785237" role="outer"/>
+    <member type="way" ref="89253781" role="outer"/>
+    <member type="way" ref="315222037" role="outer"/>
+    <member type="node" ref="151013231" role="label"/>
+    <tag k="ref" v="1001"/>
+    <tag k="name" v="Marzahn"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Марца́н"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q702521"/>
+    <tag k="wikipedia" v="de:Berlin-Marzahn"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Barnim"/>
+  </relation>
+</osm>

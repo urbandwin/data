@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="409202">
+    <member type="node" ref="1776808267" role="admin_centre"/>
+    <member type="way" ref="252929824" role="admin_centre"/>
+    <member type="node" ref="1776808266" role="admin_centre"/>
+    <member type="node" ref="1554875830" role="label"/>
+    <member type="way" ref="273599896" role="outer"/>
+    <member type="way" ref="273599897" role="outer"/>
+    <member type="way" ref="44020344" role="outer"/>
+    <member type="way" ref="325281709" role="outer"/>
+    <member type="way" ref="325281708" role="outer"/>
+    <member type="way" ref="44020343" role="outer"/>
+    <member type="way" ref="286280714" role="outer"/>
+    <member type="way" ref="286280713" role="outer"/>
+    <member type="way" ref="44020360" role="outer"/>
+    <member type="way" ref="304933994" role="outer"/>
+    <member type="way" ref="286278279" role="outer"/>
+    <member type="way" ref="286278281" role="outer"/>
+    <member type="way" ref="44020356" role="outer"/>
+    <member type="way" ref="304933984" role="outer"/>
+    <tag k="ref" v="0304"/>
+    <tag k="name" v="Heinersdorf"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Хайнерсдорф"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q693540"/>
+    <tag k="wikipedia" v="de:Berlin-Heinersdorf"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Barnim"/>
+  </relation>
+</osm>

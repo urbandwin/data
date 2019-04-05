@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="164787">
+    <member type="way" ref="310509427" role="outer"/>
+    <member type="way" ref="305092830" role="outer"/>
+    <member type="way" ref="96986347" role="outer"/>
+    <member type="way" ref="310990703" role="outer"/>
+    <member type="way" ref="306898833" role="outer"/>
+    <member type="way" ref="50291803" role="outer"/>
+    <member type="way" ref="292050668" role="outer"/>
+    <member type="way" ref="304488111" role="outer"/>
+    <member type="way" ref="305341743" role="outer"/>
+    <member type="way" ref="305341745" role="outer"/>
+    <member type="way" ref="305341744" role="outer"/>
+    <member type="way" ref="305341748" role="outer"/>
+    <member type="way" ref="246159212" role="outer"/>
+    <member type="way" ref="49801636" role="outer"/>
+    <member type="way" ref="25467349" role="outer"/>
+    <member type="way" ref="316702560" role="outer"/>
+    <member type="way" ref="96986376" role="outer"/>
+    <member type="way" ref="305092796" role="outer"/>
+    <member type="way" ref="305092822" role="outer"/>
+    <member type="way" ref="49801635" role="outer"/>
+    <member type="node" ref="29336705" role="label"/>
+    <tag k="ref" v="0405"/>
+    <tag k="name" v="Westend"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Вестенд"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q649947"/>
+    <tag k="wikipedia" v="de:Berlin-Westend"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Teltow"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="32514"/>
+  </relation>
+</osm>

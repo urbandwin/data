@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="409219">
+    <member type="way" ref="115947571" role="outer"/>
+    <member type="way" ref="462531854" role="outer"/>
+    <member type="way" ref="96986333" role="outer"/>
+    <member type="way" ref="96986345" role="outer"/>
+    <member type="way" ref="113050139" role="outer"/>
+    <member type="way" ref="316741519" role="outer"/>
+    <member type="way" ref="38329630" role="outer"/>
+    <member type="way" ref="107710366" role="outer"/>
+    <member type="way" ref="113050138" role="outer"/>
+    <member type="way" ref="50336546" role="outer"/>
+    <member type="way" ref="107705403" role="outer"/>
+    <member type="way" ref="305092824" role="outer"/>
+    <member type="node" ref="257097215" role="label"/>
+    <tag k="ref" v="0606"/>
+    <tag k="name" v="Nikolassee"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Николасзее"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q576653"/>
+    <tag k="wikipedia" v="de:Berlin-Nikolassee"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Teltow"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="32539"/>
+  </relation>
+</osm>

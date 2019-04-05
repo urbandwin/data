@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="55765">
+    <member type="way" ref="24793701" role="outer"/>
+    <member type="way" ref="97602691" role="outer"/>
+    <member type="way" ref="24793702" role="outer"/>
+    <member type="way" ref="97504001" role="outer"/>
+    <member type="way" ref="97602700" role="outer"/>
+    <member type="way" ref="97602678" role="outer"/>
+    <member type="way" ref="305213394" role="outer"/>
+    <member type="way" ref="305213393" role="outer"/>
+    <member type="way" ref="272890648" role="outer"/>
+    <member type="way" ref="272890647" role="outer"/>
+    <member type="way" ref="97621601" role="outer"/>
+    <member type="way" ref="97605950" role="outer"/>
+    <member type="way" ref="24793311" role="outer"/>
+    <member type="way" ref="272890650" role="outer"/>
+    <member type="way" ref="296431685" role="outer"/>
+    <member type="way" ref="312004988" role="outer"/>
+    <member type="way" ref="97468190" role="outer"/>
+    <member type="way" ref="245191319" role="outer"/>
+    <member type="way" ref="188569535" role="outer"/>
+    <member type="way" ref="25155730" role="outer"/>
+    <member type="way" ref="318666227" role="outer"/>
+    <member type="way" ref="97211252" role="outer"/>
+    <member type="way" ref="269637997" role="outer"/>
+    <member type="way" ref="189102971" role="outer"/>
+    <member type="way" ref="269638000" role="outer"/>
+    <member type="way" ref="269639291" role="outer"/>
+    <member type="way" ref="305188965" role="outer"/>
+    <member type="way" ref="305188960" role="outer"/>
+    <member type="way" ref="97602684" role="outer"/>
+    <member type="way" ref="97219742" role="outer"/>
+    <member type="way" ref="270171401" role="outer"/>
+    <member type="way" ref="311986518" role="outer"/>
+    <member type="way" ref="311986509" role="outer"/>
+    <member type="way" ref="311986516" role="outer"/>
+    <member type="way" ref="311986510" role="outer"/>
+    <member type="way" ref="311986506" role="outer"/>
+    <member type="way" ref="311986515" role="outer"/>
+    <member type="way" ref="311986513" role="outer"/>
+    <member type="way" ref="311986511" role="outer"/>
+    <member type="way" ref="311986508" role="outer"/>
+    <member type="way" ref="311986512" role="outer"/>
+    <member type="way" ref="311986507" role="outer"/>
+    <member type="way" ref="311986514" role="outer"/>
+    <member type="way" ref="269897058" role="outer"/>
+    <member type="way" ref="323881215" role="outer"/>
+    <member type="way" ref="269897056" role="outer"/>
+    <member type="way" ref="97219737" role="outer"/>
+    <member type="way" ref="323881217" role="outer"/>
+    <member type="way" ref="97219741" role="outer"/>
+    <member type="way" ref="317367136" role="outer"/>
+    <member type="node" ref="262328235" role="label"/>
+    <tag k="ref" v="0202"/>
+    <tag k="name" v="Kreuzberg"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Кройцберг"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="loc_name" v="X-Berg"/>
+    <tag k="wikidata" v="Q308928"/>
+    <tag k="wikipedia" v="de:Berlin-Kreuzberg"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Berliner Urstromtal"/>
+  </relation>
+</osm>

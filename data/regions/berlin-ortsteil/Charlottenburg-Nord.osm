@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="16346">
+    <member type="way" ref="188388728" role="outer"/>
+    <member type="way" ref="97998790" role="outer"/>
+    <member type="way" ref="97998797" role="outer"/>
+    <member type="way" ref="24793396" role="outer"/>
+    <member type="way" ref="306904920" role="outer"/>
+    <member type="way" ref="305092825" role="outer"/>
+    <member type="way" ref="305092823" role="outer"/>
+    <member type="way" ref="310990704" role="outer"/>
+    <member type="way" ref="310990703" role="outer"/>
+    <member type="way" ref="310990705" role="outer"/>
+    <member type="way" ref="305092858" role="outer"/>
+    <member type="way" ref="305092799" role="outer"/>
+    <member type="way" ref="305092801" role="outer"/>
+    <member type="way" ref="24793301" role="outer"/>
+    <member type="way" ref="304488110" role="outer"/>
+    <member type="way" ref="304849074" role="outer"/>
+    <member type="way" ref="150524254" role="outer"/>
+    <member type="way" ref="166099026" role="outer"/>
+    <member type="node" ref="150545069" role="label"/>
+    <tag k="ref" v="0406"/>
+    <tag k="name" v="Charlottenburg-Nord"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Шарлоттенбург-Норд"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q659451"/>
+    <tag k="wikipedia" v="de:Berlin-Charlottenburg-Nord"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Berliner Urstromtal"/>
+  </relation>
+</osm>

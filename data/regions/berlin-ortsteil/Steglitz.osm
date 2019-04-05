@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="55735">
+    <member type="node" ref="31901454" role="label"/>
+    <member type="way" ref="25155280" role="outer"/>
+    <member type="way" ref="158184095" role="outer"/>
+    <member type="way" ref="305092805" role="outer"/>
+    <member type="way" ref="305092818" role="outer"/>
+    <member type="way" ref="316749018" role="outer"/>
+    <member type="way" ref="316749025" role="outer"/>
+    <member type="way" ref="25043164" role="outer"/>
+    <member type="way" ref="316749457" role="outer"/>
+    <member type="way" ref="316749458" role="outer"/>
+    <member type="way" ref="305286885" role="outer"/>
+    <member type="way" ref="305286887" role="outer"/>
+    <member type="way" ref="69717941" role="outer"/>
+    <member type="way" ref="316749460" role="outer"/>
+    <member type="way" ref="316749459" role="outer"/>
+    <member type="way" ref="69737940" role="outer"/>
+    <member type="way" ref="316749456" role="outer"/>
+    <member type="way" ref="316749461" role="outer"/>
+    <member type="way" ref="316749017" role="outer"/>
+    <member type="way" ref="316749023" role="outer"/>
+    <member type="way" ref="316749024" role="outer"/>
+    <member type="way" ref="316749027" role="outer"/>
+    <member type="way" ref="316749019" role="outer"/>
+    <member type="way" ref="305175443" role="outer"/>
+    <member type="way" ref="25155980" role="outer"/>
+    <member type="way" ref="25155281" role="outer"/>
+    <tag k="ref" v="0601"/>
+    <tag k="name" v="Steglitz"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Штеглиц"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q700211"/>
+    <tag k="wikipedia" v="de:Berlin-Steglitz"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Teltow"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="4977"/>
+  </relation>
+</osm>

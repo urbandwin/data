@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="408305">
+    <member type="way" ref="325519796" role="outer"/>
+    <member type="way" ref="325519795" role="outer"/>
+    <member type="way" ref="293446860" role="outer"/>
+    <member type="way" ref="293446854" role="outer"/>
+    <member type="way" ref="305129245" role="outer"/>
+    <member type="way" ref="44020351" role="outer"/>
+    <member type="way" ref="43999409" role="outer"/>
+    <member type="way" ref="29412125" role="outer"/>
+    <member type="way" ref="305129248" role="outer"/>
+    <member type="way" ref="35471789" role="outer"/>
+    <member type="way" ref="261443577" role="outer"/>
+    <member type="way" ref="261443576" role="outer"/>
+    <member type="way" ref="315222018" role="outer"/>
+    <member type="way" ref="50217885" role="outer"/>
+    <member type="way" ref="43946331" role="outer"/>
+    <member type="node" ref="30822888" role="label"/>
+    <tag k="ref" v="0308"/>
+    <tag k="name" v="Blankenfelde"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Бланкенфельде"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q702621"/>
+    <tag k="wikipedia" v="de:Berlin-Blankenfelde"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Barnim"/>
+  </relation>
+</osm>

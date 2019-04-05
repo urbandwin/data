@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="162902">
+    <member type="way" ref="32970782" role="outer"/>
+    <member type="way" ref="315222034" role="outer"/>
+    <member type="way" ref="191756872" role="outer"/>
+    <member type="way" ref="253467201" role="outer"/>
+    <member type="way" ref="92748058" role="outer"/>
+    <member type="way" ref="36875804" role="outer"/>
+    <member type="way" ref="24037716" role="outer"/>
+    <member type="way" ref="97176309" role="outer"/>
+    <member type="way" ref="25141225" role="outer"/>
+    <member type="way" ref="24826152" role="outer"/>
+    <member type="way" ref="311222437" role="outer"/>
+    <member type="way" ref="24826151" role="outer"/>
+    <member type="way" ref="316973618" role="outer"/>
+    <member type="way" ref="175726484" role="outer"/>
+    <member type="way" ref="49861362" role="outer"/>
+    <member type="way" ref="24793704" role="outer"/>
+    <member type="way" ref="97215173" role="outer"/>
+    <member type="way" ref="458967344" role="outer"/>
+    <member type="way" ref="97219744" role="outer"/>
+    <member type="way" ref="28771715" role="outer"/>
+    <member type="way" ref="269885447" role="outer"/>
+    <member type="way" ref="269885449" role="outer"/>
+    <member type="way" ref="317367136" role="outer"/>
+    <member type="way" ref="97219741" role="outer"/>
+    <member type="way" ref="323881217" role="outer"/>
+    <member type="way" ref="97219737" role="outer"/>
+    <member type="way" ref="269897056" role="outer"/>
+    <member type="way" ref="323881215" role="outer"/>
+    <member type="way" ref="269897058" role="outer"/>
+    <member type="way" ref="311986514" role="outer"/>
+    <member type="way" ref="311986507" role="outer"/>
+    <member type="way" ref="311986512" role="outer"/>
+    <member type="way" ref="311986508" role="outer"/>
+    <member type="way" ref="311986511" role="outer"/>
+    <member type="way" ref="311986513" role="outer"/>
+    <member type="way" ref="311986515" role="outer"/>
+    <member type="way" ref="311986506" role="outer"/>
+    <member type="way" ref="311986510" role="outer"/>
+    <member type="way" ref="311986516" role="outer"/>
+    <member type="way" ref="311986509" role="outer"/>
+    <member type="way" ref="311986518" role="outer"/>
+    <member type="way" ref="270171401" role="outer"/>
+    <member type="way" ref="97219742" role="outer"/>
+    <member type="way" ref="97602684" role="outer"/>
+    <member type="way" ref="305188960" role="outer"/>
+    <member type="way" ref="305188965" role="outer"/>
+    <member type="way" ref="305188963" role="outer"/>
+    <member type="way" ref="305188975" role="outer"/>
+    <member type="way" ref="97219740" role="outer"/>
+    <member type="way" ref="97219738" role="outer"/>
+    <member type="way" ref="325248176" role="outer"/>
+    <member type="way" ref="325248175" role="outer"/>
+    <member type="way" ref="325248177" role="outer"/>
+    <member type="way" ref="325224964" role="outer"/>
+    <member type="way" ref="49861359" role="outer"/>
+    <member type="way" ref="305119969" role="outer"/>
+    <member type="way" ref="280677453" role="outer"/>
+    <member type="way" ref="280677454" role="outer"/>
+    <member type="way" ref="280675133" role="outer"/>
+    <member type="way" ref="280675131" role="outer"/>
+    <member type="way" ref="305119970" role="outer"/>
+    <member type="way" ref="36874973" role="outer"/>
+    <member type="way" ref="269631787" role="outer"/>
+    <member type="way" ref="304760784" role="outer"/>
+    <member type="way" ref="304760793" role="outer"/>
+    <member type="way" ref="304760785" role="outer"/>
+    <member type="way" ref="304760808" role="outer"/>
+    <member type="way" ref="304760791" role="outer"/>
+    <member type="way" ref="304760798" role="outer"/>
+    <member type="way" ref="36237035" role="outer"/>
+    <member type="way" ref="36224135" role="outer"/>
+    <member type="way" ref="97211676" role="outer"/>
+    <member type="way" ref="49861360" role="outer"/>
+    <member type="node" ref="1779489655" role="label"/>
+    <member type="way" ref="30255165" role="admin_centre"/>
+    <tag k="ref" v="08"/>
+    <tag k="name" v="Neukölln"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="borough"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Нойкёльн"/>
+    <tag k="website" v="http://www.berlin.de/ba-neukoelln/"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q4071168"/>
+    <tag k="wikipedia" v="de:Bezirk Neukölln"/>
+    <tag k="is_in:city" v="Berlin"/>
+    <tag k="population" v="328045"/>
+    <tag k="admin_level" v="9"/>
+    <tag k="description" v="8. Verwaltungsbezirk von Berlin"/>
+    <tag k="is_in:state" v="Berlin"/>
+    <tag k="name:prefix" v="Bezirk"/>
+    <tag k="is_in:county" v="Berlin"/>
+    <tag k="is_in:region" v="Berlin"/>
+    <tag k="is_in:country" v="Deutschland"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="population:date" v="2016-06-30"/>
+    <tag k="is_in:state_code" v="BE"/>
+    <tag k="source:population" v="https://de.wikipedia.org/wiki/Bezirk_Neuk%C3%B6lln"/>
+    <tag k="is_in:country_code" v="DE"/>
+    <tag k="geographical_region" v="Teltow"/>
+    <tag k="is_in:country_prefix" v="Bundesrepublik"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="4896"/>
+  </relation>
+</osm>

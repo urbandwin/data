@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="409213">
+    <member type="way" ref="43946328" role="outer"/>
+    <member type="way" ref="49861359" role="outer"/>
+    <member type="way" ref="325224964" role="outer"/>
+    <member type="way" ref="325248177" role="outer"/>
+    <member type="way" ref="325248175" role="outer"/>
+    <member type="way" ref="325248176" role="outer"/>
+    <member type="way" ref="97219738" role="outer"/>
+    <member type="way" ref="97219740" role="outer"/>
+    <member type="way" ref="305188975" role="outer"/>
+    <member type="way" ref="305188963" role="outer"/>
+    <member type="way" ref="305188965" role="outer"/>
+    <member type="way" ref="305188960" role="outer"/>
+    <member type="way" ref="97602684" role="outer"/>
+    <member type="way" ref="97219742" role="outer"/>
+    <member type="way" ref="270171401" role="outer"/>
+    <member type="way" ref="311986518" role="outer"/>
+    <member type="way" ref="311986509" role="outer"/>
+    <member type="way" ref="311986516" role="outer"/>
+    <member type="way" ref="311986510" role="outer"/>
+    <member type="way" ref="311986506" role="outer"/>
+    <member type="way" ref="311986515" role="outer"/>
+    <member type="way" ref="311986513" role="outer"/>
+    <member type="way" ref="311986511" role="outer"/>
+    <member type="way" ref="311986508" role="outer"/>
+    <member type="way" ref="311986512" role="outer"/>
+    <member type="way" ref="311986507" role="outer"/>
+    <member type="way" ref="311986514" role="outer"/>
+    <member type="way" ref="269897058" role="outer"/>
+    <member type="way" ref="323881215" role="outer"/>
+    <member type="way" ref="269897056" role="outer"/>
+    <member type="way" ref="97219737" role="outer"/>
+    <member type="way" ref="323881217" role="outer"/>
+    <member type="way" ref="97219741" role="outer"/>
+    <member type="way" ref="317367136" role="outer"/>
+    <member type="way" ref="269885449" role="outer"/>
+    <member type="way" ref="269885447" role="outer"/>
+    <member type="way" ref="28771715" role="outer"/>
+    <member type="way" ref="97219744" role="outer"/>
+    <member type="way" ref="458967344" role="outer"/>
+    <member type="way" ref="97215173" role="outer"/>
+    <member type="way" ref="24793704" role="outer"/>
+    <member type="way" ref="49861362" role="outer"/>
+    <member type="way" ref="279862929" role="outer"/>
+    <member type="way" ref="316837838" role="outer"/>
+    <member type="way" ref="316837840" role="outer"/>
+    <member type="way" ref="316837839" role="outer"/>
+    <member type="way" ref="316837841" role="outer"/>
+    <member type="way" ref="97216978" role="outer"/>
+    <member type="way" ref="273139350" role="outer"/>
+    <member type="way" ref="280626850" role="outer"/>
+    <member type="way" ref="280626849" role="outer"/>
+    <member type="way" ref="270165611" role="outer"/>
+    <member type="way" ref="270165609" role="outer"/>
+    <member type="node" ref="129875262" role="label"/>
+    <tag k="ref" v="0801"/>
+    <tag k="name" v="Neukölln"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="name:ru" v="Нойкёльн"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q169492"/>
+    <tag k="wikipedia" v="de:Berlin-Neukölln"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Berliner Urstromtal"/>
+  </relation>
+</osm>

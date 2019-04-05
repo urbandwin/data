@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="55737">
+    <member type="way" ref="316749454" role="outer"/>
+    <member type="way" ref="69717941" role="outer"/>
+    <member type="way" ref="316749460" role="outer"/>
+    <member type="way" ref="316749459" role="outer"/>
+    <member type="way" ref="69737940" role="outer"/>
+    <member type="way" ref="316749456" role="outer"/>
+    <member type="way" ref="316749461" role="outer"/>
+    <member type="way" ref="305286887" role="outer"/>
+    <member type="way" ref="305286885" role="outer"/>
+    <member type="way" ref="316749458" role="outer"/>
+    <member type="way" ref="316749457" role="outer"/>
+    <member type="way" ref="25156165" role="outer"/>
+    <member type="way" ref="305574681" role="outer"/>
+    <member type="way" ref="305574677" role="outer"/>
+    <member type="way" ref="115947726" role="outer"/>
+    <member type="way" ref="305657112" role="outer"/>
+    <member type="way" ref="69720308" role="outer"/>
+    <member type="way" ref="25156407" role="outer"/>
+    <member type="way" ref="316741559" role="outer"/>
+    <member type="way" ref="316741562" role="outer"/>
+    <member type="way" ref="316741561" role="outer"/>
+    <member type="way" ref="316741558" role="outer"/>
+    <member type="way" ref="316741563" role="outer"/>
+    <member type="way" ref="316741560" role="outer"/>
+    <member type="way" ref="316105051" role="outer"/>
+    <member type="way" ref="69718892" role="outer"/>
+    <member type="way" ref="29411648" role="outer"/>
+    <member type="way" ref="69557895" role="outer"/>
+    <member type="way" ref="69414399" role="outer"/>
+    <member type="way" ref="32970437" role="outer"/>
+    <member type="way" ref="25414820" role="outer"/>
+    <member type="way" ref="25414819" role="outer"/>
+    <member type="node" ref="129648004" role="label"/>
+    <tag k="ref" v="0602"/>
+    <tag k="name" v="Lichterfelde"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Лихтерфельде"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q155211"/>
+    <tag k="wikipedia" v="de:Berlin-Lichterfelde"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Teltow"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="32538"/>
+  </relation>
+</osm>

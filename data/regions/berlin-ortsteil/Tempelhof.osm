@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="162894">
+    <member type="way" ref="269638000" role="outer"/>
+    <member type="way" ref="269639291" role="outer"/>
+    <member type="way" ref="305188963" role="outer"/>
+    <member type="way" ref="305188975" role="outer"/>
+    <member type="way" ref="97219740" role="outer"/>
+    <member type="way" ref="97219738" role="outer"/>
+    <member type="way" ref="325248177" role="outer"/>
+    <member type="way" ref="325248175" role="outer"/>
+    <member type="way" ref="325248176" role="outer"/>
+    <member type="way" ref="325224964" role="outer"/>
+    <member type="way" ref="49861359" role="outer"/>
+    <member type="way" ref="305119969" role="outer"/>
+    <member type="way" ref="280677453" role="outer"/>
+    <member type="way" ref="280677454" role="outer"/>
+    <member type="way" ref="280675133" role="outer"/>
+    <member type="way" ref="280675131" role="outer"/>
+    <member type="way" ref="305119970" role="outer"/>
+    <member type="way" ref="36874973" role="outer"/>
+    <member type="way" ref="97211253" role="outer"/>
+    <member type="way" ref="25155983" role="outer"/>
+    <member type="way" ref="305175443" role="outer"/>
+    <member type="way" ref="25155980" role="outer"/>
+    <member type="way" ref="245191327" role="outer"/>
+    <member type="way" ref="305175419" role="outer"/>
+    <member type="way" ref="305175431" role="outer"/>
+    <member type="way" ref="305175438" role="outer"/>
+    <member type="way" ref="305175445" role="outer"/>
+    <member type="way" ref="245191323" role="outer"/>
+    <member type="way" ref="305188964" role="outer"/>
+    <member type="way" ref="305188962" role="outer"/>
+    <member type="way" ref="272866117" role="outer"/>
+    <member type="way" ref="282410697" role="outer"/>
+    <member type="way" ref="318666227" role="outer"/>
+    <member type="way" ref="97211252" role="outer"/>
+    <member type="way" ref="269637997" role="outer"/>
+    <member type="way" ref="189102971" role="outer"/>
+    <member type="node" ref="1676561749" role="label"/>
+    <member type="way" ref="305175439" role="outer"/>
+    <member type="way" ref="305175441" role="outer"/>
+    <member type="way" ref="305175436" role="outer"/>
+    <member type="way" ref="305175424" role="outer"/>
+    <tag k="ref" v="0703"/>
+    <tag k="name" v="Tempelhof"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="name:ru" v="Темпельхоф"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q363830"/>
+    <tag k="wikipedia" v="de:Berlin-Tempelhof"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Teltow"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="4984"/>
+  </relation>
+</osm>

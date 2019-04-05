@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="409205">
+    <member type="node" ref="29421338" role="label"/>
+    <member type="way" ref="44016042" role="outer"/>
+    <member type="way" ref="97855596" role="outer"/>
+    <member type="way" ref="38317791" role="outer"/>
+    <member type="way" ref="38317783" role="outer"/>
+    <member type="way" ref="44016045" role="outer"/>
+    <member type="way" ref="44016046" role="outer"/>
+    <member type="way" ref="304933998" role="outer"/>
+    <tag k="ref" v="1107"/>
+    <tag k="name" v="Wartenberg"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Вартенберг"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q1760551"/>
+    <tag k="wikipedia" v="de:Berlin-Wartenberg"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Barnim"/>
+  </relation>
+</osm>

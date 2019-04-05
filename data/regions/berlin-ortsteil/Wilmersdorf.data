@@ -1,0 +1,7 @@
+name:                    Wilmersdorf
+osm-relation:            55740
+wikidata:                Q693628
+bezirk:                  Charlottenburg-Wilmersdorf
+neighbors:               Charlottenburg, Dahlem, Friedenau, Halensee, Schmargendorf, Schöneberg, Steglitz
+computed-centroid:       13.318427, 52.485852
+computed-area:           7178054.33

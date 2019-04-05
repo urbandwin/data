@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="162900">
+    <member type="node" ref="1676561739" role="label"/>
+    <member type="way" ref="97211253" role="outer"/>
+    <member type="way" ref="25155985" role="outer"/>
+    <member type="way" ref="305175480" role="outer"/>
+    <member type="way" ref="305175479" role="outer"/>
+    <member type="way" ref="305228550" role="outer"/>
+    <member type="way" ref="25467740" role="outer"/>
+    <member type="way" ref="304760797" role="outer"/>
+    <member type="way" ref="304760786" role="outer"/>
+    <member type="way" ref="25414825" role="outer"/>
+    <member type="way" ref="189443227" role="outer"/>
+    <member type="way" ref="304760787" role="outer"/>
+    <member type="way" ref="304760790" role="outer"/>
+    <member type="way" ref="304760800" role="outer"/>
+    <member type="way" ref="36237035" role="outer"/>
+    <member type="way" ref="304760798" role="outer"/>
+    <member type="way" ref="304760791" role="outer"/>
+    <member type="way" ref="304760808" role="outer"/>
+    <member type="way" ref="304760785" role="outer"/>
+    <member type="way" ref="304760793" role="outer"/>
+    <member type="way" ref="304760784" role="outer"/>
+    <member type="way" ref="269631787" role="outer"/>
+    <tag k="ref" v="0704"/>
+    <tag k="name" v="Mariendorf"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="name:ru" v="Мариендорф"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q602159"/>
+    <tag k="wikipedia" v="de:Berlin-Mariendorf"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Teltow"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="32536"/>
+  </relation>
+</osm>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="407715">
+    <member type="node" ref="560483807" role="label"/>
+    <member type="way" ref="97495042" role="outer"/>
+    <member type="way" ref="97855598" role="outer"/>
+    <member type="way" ref="38317785" role="outer"/>
+    <member type="way" ref="38317789" role="outer"/>
+    <member type="way" ref="49859492" role="outer"/>
+    <member type="way" ref="97503996" role="outer"/>
+    <member type="way" ref="185943941" role="outer"/>
+    <member type="way" ref="269344538" role="outer"/>
+    <member type="way" ref="269344542" role="outer"/>
+    <member type="way" ref="188569539" role="outer"/>
+    <member type="way" ref="271597465" role="outer"/>
+    <member type="way" ref="280585751" role="outer"/>
+    <member type="way" ref="280585746" role="outer"/>
+    <tag k="ref" v="1111"/>
+    <tag k="name" v="Fennpfuhl"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Феннпфуль"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q566387"/>
+    <tag k="wikipedia" v="de:Berlin-Fennpfuhl"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Barnim"/>
+  </relation>
+</osm>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="404664">
+    <member type="node" ref="1588982756" role="label"/>
+    <member type="way" ref="43999408" role="outer"/>
+    <member type="way" ref="123935011" role="outer"/>
+    <member type="way" ref="44017874" role="outer"/>
+    <member type="way" ref="43999406" role="outer"/>
+    <member type="way" ref="304934013" role="outer"/>
+    <member type="way" ref="44020361" role="outer"/>
+    <member type="way" ref="305122987" role="outer"/>
+    <member type="way" ref="305456961" role="outer"/>
+    <member type="way" ref="305456960" role="outer"/>
+    <member type="node" ref="1776808266" role="admin_centre"/>
+    <tag k="ref" v="0305"/>
+    <tag k="name" v="Karow"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Каров"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q700184"/>
+    <tag k="wikipedia" v="de:Berlin-Karow"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Barnim"/>
+  </relation>
+</osm>

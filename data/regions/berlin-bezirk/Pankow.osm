@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="164723">
+    <member type="way" ref="326471591" role="admin_centre"/>
+    <member type="way" ref="460523348" role="outer"/>
+    <member type="way" ref="280533064" role="outer"/>
+    <member type="way" ref="460521438" role="outer"/>
+    <member type="way" ref="38317790" role="outer"/>
+    <member type="way" ref="269344542" role="outer"/>
+    <member type="way" ref="269344538" role="outer"/>
+    <member type="way" ref="185943941" role="outer"/>
+    <member type="way" ref="97503996" role="outer"/>
+    <member type="way" ref="49859492" role="outer"/>
+    <member type="way" ref="38317789" role="outer"/>
+    <member type="way" ref="97855586" role="outer"/>
+    <member type="way" ref="50336550" role="outer"/>
+    <member type="way" ref="38317784" role="outer"/>
+    <member type="way" ref="44020359" role="outer"/>
+    <member type="way" ref="97855591" role="outer"/>
+    <member type="way" ref="284673756" role="outer"/>
+    <member type="way" ref="239996677" role="outer"/>
+    <member type="way" ref="38317783" role="outer"/>
+    <member type="way" ref="304964638" role="outer"/>
+    <member type="way" ref="123935011" role="outer"/>
+    <member type="way" ref="44017874" role="outer"/>
+    <member type="way" ref="89253705" role="outer"/>
+    <member type="way" ref="315222033" role="outer"/>
+    <member type="way" ref="370203715" role="outer"/>
+    <member type="way" ref="97866877" role="outer"/>
+    <member type="way" ref="44017870" role="outer"/>
+    <member type="way" ref="315222027" role="outer"/>
+    <member type="way" ref="29412125" role="outer"/>
+    <member type="way" ref="305129248" role="outer"/>
+    <member type="way" ref="35471789" role="outer"/>
+    <member type="way" ref="261443577" role="outer"/>
+    <member type="way" ref="261443576" role="outer"/>
+    <member type="way" ref="315222018" role="outer"/>
+    <member type="way" ref="50217885" role="outer"/>
+    <member type="way" ref="25132208" role="outer"/>
+    <member type="way" ref="49870814" role="outer"/>
+    <member type="way" ref="20963229" role="outer"/>
+    <member type="way" ref="98016903" role="outer"/>
+    <member type="way" ref="273730288" role="outer"/>
+    <member type="way" ref="273730289" role="outer"/>
+    <member type="way" ref="50217883" role="outer"/>
+    <member type="way" ref="98016878" role="outer"/>
+    <member type="way" ref="292260744" role="outer"/>
+    <member type="way" ref="281162007" role="outer"/>
+    <member type="way" ref="115947594" role="outer"/>
+    <member type="way" ref="45010128" role="outer"/>
+    <member type="way" ref="24792156" role="outer"/>
+    <member type="way" ref="50220239" role="outer"/>
+    <member type="way" ref="97994626" role="outer"/>
+    <member type="way" ref="405963357" role="outer"/>
+    <member type="way" ref="185943936" role="outer"/>
+    <member type="way" ref="24792157" role="outer"/>
+    <member type="way" ref="185943195" role="outer"/>
+    <member type="way" ref="304933990" role="outer"/>
+    <member type="way" ref="304933987" role="outer"/>
+    <member type="way" ref="304933985" role="outer"/>
+    <member type="way" ref="304934011" role="outer"/>
+    <member type="way" ref="305213391" role="outer"/>
+    <member type="way" ref="269351135" role="outer"/>
+    <member type="way" ref="26139142" role="outer"/>
+    <member type="way" ref="97506329" role="outer"/>
+    <member type="way" ref="328336970" role="outer"/>
+    <member type="way" ref="328336972" role="outer"/>
+    <member type="way" ref="318031548" role="outer"/>
+    <member type="way" ref="318031549" role="outer"/>
+    <member type="way" ref="269325560" role="outer"/>
+    <tag k="ref" v="03"/>
+    <tag k="name" v="Pankow"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="borough"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Панков"/>
+    <tag k="website" v="http://www.berlin.de/ba-pankow/"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q163012"/>
+    <tag k="wikipedia" v="de:Bezirk Pankow"/>
+    <tag k="population" v="394816"/>
+    <tag k="admin_level" v="9"/>
+    <tag k="description" v="3. Verwaltungsbezirk von Berlin"/>
+    <tag k="name:prefix" v="Bezirk"/>
+    <tag k="population:date" v="2016-06-30"/>
+    <tag k="postal_addr:city" v="Berlin"/>
+    <tag k="source:population" v="https://de.wikipedia.org/wiki/Bezirk_Pankow"/>
+    <tag k="postal_addr:street" v="Breite Straße"/>
+    <tag k="geographical_region" v="Barnim"/>
+    <tag k="postal_addr:country" v="DE"/>
+    <tag k="postal_addr:postcode" v="13187"/>
+    <tag k="postal_addr:housename" v="Bezirksamt Pankow von Berlin"/>
+    <tag k="postal_addr:housenumber" v="24A-26"/>
+  </relation>
+</osm>

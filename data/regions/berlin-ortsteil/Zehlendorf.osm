@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="164778">
+    <member type="way" ref="32969905" role="outer"/>
+    <member type="way" ref="316105051" role="outer"/>
+    <member type="way" ref="316741560" role="outer"/>
+    <member type="way" ref="316741563" role="outer"/>
+    <member type="way" ref="316741558" role="outer"/>
+    <member type="way" ref="316741561" role="outer"/>
+    <member type="way" ref="316741562" role="outer"/>
+    <member type="way" ref="316741559" role="outer"/>
+    <member type="way" ref="25156407" role="outer"/>
+    <member type="way" ref="69720308" role="outer"/>
+    <member type="way" ref="305657422" role="outer"/>
+    <member type="way" ref="305657429" role="outer"/>
+    <member type="way" ref="305657420" role="outer"/>
+    <member type="way" ref="305575241" role="outer"/>
+    <member type="way" ref="305575250" role="outer"/>
+    <member type="way" ref="305575259" role="outer"/>
+    <member type="way" ref="305575263" role="outer"/>
+    <member type="way" ref="25156408" role="outer"/>
+    <member type="way" ref="25156776" role="outer"/>
+    <member type="way" ref="115947571" role="outer"/>
+    <member type="way" ref="462531853" role="outer"/>
+    <member type="way" ref="49861358" role="outer"/>
+    <member type="node" ref="31451386" role="label"/>
+    <tag k="ref" v="0604"/>
+    <tag k="name" v="Zehlendorf"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Целендорф"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q324402"/>
+    <tag k="wikipedia" v="de:Berlin-Zehlendorf"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Teltow"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="5019"/>
+  </relation>
+</osm>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="55743">
+    <member type="way" ref="252904411" role="admin_centre"/>
+    <member type="node" ref="145785609" role="label"/>
+    <member type="way" ref="166019676" role="outer"/>
+    <member type="way" ref="166019674" role="outer"/>
+    <member type="way" ref="316145116" role="outer"/>
+    <member type="way" ref="316145117" role="outer"/>
+    <member type="way" ref="30079784" role="outer"/>
+    <member type="way" ref="265199441" role="outer"/>
+    <member type="way" ref="286339746" role="outer"/>
+    <member type="way" ref="290721531" role="outer"/>
+    <member type="way" ref="290721528" role="outer"/>
+    <member type="way" ref="265199440" role="outer"/>
+    <member type="way" ref="316157887" role="outer"/>
+    <member type="way" ref="25130369" role="outer"/>
+    <member type="way" ref="316145107" role="outer"/>
+    <member type="way" ref="316145106" role="outer"/>
+    <member type="way" ref="25132205" role="outer"/>
+    <member type="way" ref="25132041" role="outer"/>
+    <member type="way" ref="316145112" role="outer"/>
+    <member type="way" ref="98007369" role="outer"/>
+    <member type="way" ref="316145272" role="outer"/>
+    <tag k="ref" v="1209"/>
+    <tag k="name" v="Wittenau"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Виттенау"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q564913"/>
+    <tag k="wikipedia" v="de:Berlin-Wittenau"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Barnim"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="32550"/>
+  </relation>
+</osm>

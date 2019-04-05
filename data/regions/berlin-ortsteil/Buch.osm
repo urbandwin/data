@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="408306">
+    <member type="way" ref="43999409" role="outer"/>
+    <member type="way" ref="97866873" role="outer"/>
+    <member type="way" ref="304933979" role="outer"/>
+    <member type="way" ref="44020350" role="outer"/>
+    <member type="way" ref="43999406" role="outer"/>
+    <member type="way" ref="89253705" role="outer"/>
+    <member type="way" ref="315222033" role="outer"/>
+    <member type="way" ref="370203715" role="outer"/>
+    <member type="way" ref="97866877" role="outer"/>
+    <member type="way" ref="44017870" role="outer"/>
+    <member type="way" ref="315222027" role="outer"/>
+    <member type="node" ref="161603501" role="label"/>
+    <tag k="ref" v="0309"/>
+    <tag k="name" v="Buch"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Бух"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q670751"/>
+    <tag k="wikipedia" v="de:Berlin-Buch"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Barnim"/>
+  </relation>
+</osm>

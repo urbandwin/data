@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="407713">
+    <member type="node" ref="1776808267" role="admin_centre"/>
+    <member type="way" ref="49859492" role="outer"/>
+    <member type="way" ref="97503996" role="outer"/>
+    <member type="way" ref="185943941" role="outer"/>
+    <member type="way" ref="269344538" role="outer"/>
+    <member type="way" ref="269344542" role="outer"/>
+    <member type="way" ref="38317790" role="outer"/>
+    <member type="way" ref="460521438" role="outer"/>
+    <member type="way" ref="280533064" role="outer"/>
+    <member type="way" ref="460523348" role="outer"/>
+    <member type="way" ref="269325560" role="outer"/>
+    <member type="way" ref="318031549" role="outer"/>
+    <member type="way" ref="318031548" role="outer"/>
+    <member type="way" ref="328336972" role="outer"/>
+    <member type="way" ref="328336970" role="outer"/>
+    <member type="way" ref="97506329" role="outer"/>
+    <member type="way" ref="26139142" role="outer"/>
+    <member type="way" ref="269351135" role="outer"/>
+    <member type="way" ref="305213391" role="outer"/>
+    <member type="way" ref="304934011" role="outer"/>
+    <member type="way" ref="304933985" role="outer"/>
+    <member type="way" ref="304933987" role="outer"/>
+    <member type="way" ref="304933990" role="outer"/>
+    <member type="way" ref="185943195" role="outer"/>
+    <member type="way" ref="24792157" role="outer"/>
+    <member type="way" ref="185943936" role="outer"/>
+    <member type="way" ref="405963357" role="outer"/>
+    <member type="way" ref="97994626" role="outer"/>
+    <member type="way" ref="50220239" role="outer"/>
+    <member type="way" ref="310931336" role="outer"/>
+    <member type="way" ref="310931337" role="outer"/>
+    <member type="way" ref="304934015" role="outer"/>
+    <member type="way" ref="97866872" role="outer"/>
+    <member type="way" ref="97506342" role="outer"/>
+    <member type="way" ref="290739013" role="outer"/>
+    <member type="way" ref="273585506" role="outer"/>
+    <member type="way" ref="97855581" role="outer"/>
+    <member type="way" ref="185943945" role="outer"/>
+    <member type="node" ref="163852973" role="label"/>
+    <tag k="ref" v="0301"/>
+    <tag k="name" v="Prenzlauer Berg"/>
+    <tag k="note" v="interwiki-links exist, no need to tag each language.."/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="name:de" v="Prenzlauer Berg"/>
+    <tag k="name:he" v="פרנצלאואר ברג"/>
+    <tag k="name:ru" v="Пренцлауэр-Берг"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="loc_name" v="Prenzlberg"/>
+    <tag k="wikidata" v="Q313186"/>
+    <tag k="wikipedia" v="de:Berlin-Prenzlauer Berg"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Barnim"/>
+  </relation>
+</osm>

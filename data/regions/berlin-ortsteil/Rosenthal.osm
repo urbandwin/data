@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="407651">
+    <member type="way" ref="325519796" role="outer"/>
+    <member type="way" ref="325519795" role="outer"/>
+    <member type="way" ref="44020352" role="outer"/>
+    <member type="way" ref="316157880" role="outer"/>
+    <member type="way" ref="49861898" role="outer"/>
+    <member type="way" ref="315566259" role="outer"/>
+    <member type="way" ref="315566257" role="outer"/>
+    <member type="way" ref="315566245" role="outer"/>
+    <member type="way" ref="315566249" role="outer"/>
+    <member type="way" ref="315566255" role="outer"/>
+    <member type="way" ref="315566250" role="outer"/>
+    <member type="way" ref="315566265" role="outer"/>
+    <member type="way" ref="315566261" role="outer"/>
+    <member type="way" ref="315566277" role="outer"/>
+    <member type="way" ref="315566256" role="outer"/>
+    <member type="way" ref="315566266" role="outer"/>
+    <member type="way" ref="293421027" role="outer"/>
+    <member type="way" ref="293421026" role="outer"/>
+    <member type="way" ref="315566270" role="outer"/>
+    <member type="way" ref="315566275" role="outer"/>
+    <member type="way" ref="315566244" role="outer"/>
+    <member type="way" ref="315566254" role="outer"/>
+    <member type="way" ref="315566260" role="outer"/>
+    <member type="way" ref="315566258" role="outer"/>
+    <member type="way" ref="315566253" role="outer"/>
+    <member type="way" ref="315566262" role="outer"/>
+    <member type="way" ref="315566267" role="outer"/>
+    <member type="way" ref="315566248" role="outer"/>
+    <member type="way" ref="315566251" role="outer"/>
+    <member type="way" ref="43946330" role="outer"/>
+    <member type="way" ref="49870814" role="outer"/>
+    <member type="way" ref="25132208" role="outer"/>
+    <member type="way" ref="43946331" role="outer"/>
+    <member type="node" ref="1776808267" role="admin_centre"/>
+    <member type="way" ref="252929824" role="admin_centre"/>
+    <member type="node" ref="1776808266" role="admin_centre"/>
+    <member type="node" ref="161876290" role="label"/>
+    <tag k="ref" v="0312"/>
+    <tag k="name" v="Rosenthal"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Розенталь"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q693521"/>
+    <tag k="wikipedia" v="de:Berlin-Rosenthal"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Barnim"/>
+  </relation>
+</osm>

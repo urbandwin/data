@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="407712">
+    <member type="node" ref="1583388419" role="label"/>
+    <member type="way" ref="44020355" role="outer"/>
+    <member type="way" ref="44020353" role="outer"/>
+    <member type="way" ref="304933986" role="outer"/>
+    <member type="way" ref="304934004" role="outer"/>
+    <member type="way" ref="304933999" role="outer"/>
+    <member type="way" ref="294977108" role="outer"/>
+    <member type="way" ref="273599902" role="outer"/>
+    <member type="way" ref="273599900" role="outer"/>
+    <member type="way" ref="305459726" role="outer"/>
+    <member type="way" ref="305459727" role="outer"/>
+    <member type="way" ref="45010128" role="outer"/>
+    <member type="way" ref="24792156" role="outer"/>
+    <member type="way" ref="310931336" role="outer"/>
+    <member type="way" ref="310931337" role="outer"/>
+    <member type="way" ref="304934015" role="outer"/>
+    <member type="way" ref="97866872" role="outer"/>
+    <member type="way" ref="97506342" role="outer"/>
+    <member type="way" ref="290739013" role="outer"/>
+    <member type="way" ref="273599898" role="outer"/>
+    <member type="way" ref="38333072" role="outer"/>
+    <member type="way" ref="44020344" role="outer"/>
+    <member type="way" ref="273599897" role="outer"/>
+    <member type="way" ref="273599896" role="outer"/>
+    <member type="way" ref="304934010" role="outer"/>
+    <member type="way" ref="43946329" role="outer"/>
+    <tag k="ref" v="0307"/>
+    <tag k="name" v="Pankow"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Панков"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q4707648"/>
+    <tag k="wikipedia" v="de:Berlin-Pankow"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Barnim"/>
+  </relation>
+</osm>

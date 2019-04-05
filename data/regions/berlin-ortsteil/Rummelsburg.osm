@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="409204">
+    <member type="node" ref="288784639" role="label"/>
+    <member type="way" ref="271981271" role="outer"/>
+    <member type="way" ref="271981274" role="outer"/>
+    <member type="way" ref="271981273" role="outer"/>
+    <member type="way" ref="387419552" role="outer"/>
+    <member type="way" ref="97458450" role="outer"/>
+    <member type="way" ref="271981275" role="outer"/>
+    <member type="way" ref="50336556" role="outer"/>
+    <member type="way" ref="44016031" role="outer"/>
+    <member type="way" ref="50336555" role="outer"/>
+    <member type="way" ref="432785721" role="outer"/>
+    <member type="way" ref="97503997" role="outer"/>
+    <member type="way" ref="24793696" role="outer"/>
+    <member type="way" ref="97215171" role="outer"/>
+    <member type="way" ref="25140119" role="outer"/>
+    <member type="way" ref="44016032" role="outer"/>
+    <member type="way" ref="272360506" role="outer"/>
+    <member type="way" ref="272360504" role="outer"/>
+    <member type="way" ref="273946349" role="outer"/>
+    <member type="way" ref="273946346" role="outer"/>
+    <tag k="ref" v="1112"/>
+    <tag k="name" v="Rummelsburg"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Руммельсбург"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q561880"/>
+    <tag k="wikipedia" v="de:Berlin-Rummelsburg"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Berliner Urstromtal"/>
+  </relation>
+</osm>

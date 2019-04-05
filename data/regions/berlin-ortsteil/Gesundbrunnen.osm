@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="28426">
+    <member type="way" ref="405963357" role="outer"/>
+    <member type="way" ref="185943936" role="outer"/>
+    <member type="way" ref="189101272" role="outer"/>
+    <member type="way" ref="185787601" role="outer"/>
+    <member type="way" ref="24792158" role="outer"/>
+    <member type="way" ref="97994641" role="outer"/>
+    <member type="way" ref="316051114" role="outer"/>
+    <member type="way" ref="316051122" role="outer"/>
+    <member type="way" ref="316051126" role="outer"/>
+    <member type="way" ref="316051116" role="outer"/>
+    <member type="way" ref="316051125" role="outer"/>
+    <member type="way" ref="316051124" role="outer"/>
+    <member type="way" ref="316051115" role="outer"/>
+    <member type="way" ref="316051119" role="outer"/>
+    <member type="way" ref="97994634" role="outer"/>
+    <member type="way" ref="24792155" role="outer"/>
+    <member type="way" ref="405963361" role="outer"/>
+    <member type="way" ref="405963360" role="outer"/>
+    <member type="way" ref="304432720" role="outer"/>
+    <member type="way" ref="405963359" role="outer"/>
+    <member type="way" ref="24792156" role="outer"/>
+    <member type="way" ref="50220239" role="outer"/>
+    <member type="way" ref="97994626" role="outer"/>
+    <member type="node" ref="163830590" role="label"/>
+    <tag k="ref" v="0106"/>
+    <tag k="name" v="Gesundbrunnen"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Гезундбруннен"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q644350"/>
+    <tag k="wikipedia" v="de:Berlin-Gesundbrunnen"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Berliner Urstromtal"/>
+  </relation>
+</osm>

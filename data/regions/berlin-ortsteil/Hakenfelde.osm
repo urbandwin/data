@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="408311">
+    <member type="way" ref="115947680" role="outer"/>
+    <member type="way" ref="292050667" role="outer"/>
+    <member type="way" ref="38329459" role="outer"/>
+    <member type="way" ref="38329457" role="outer"/>
+    <member type="way" ref="38329464" role="outer"/>
+    <member type="way" ref="98035862" role="outer"/>
+    <member type="way" ref="188563935" role="outer"/>
+    <member type="way" ref="406181414" role="outer"/>
+    <member type="way" ref="406181413" role="outer"/>
+    <member type="way" ref="29412695" role="outer"/>
+    <member type="way" ref="131628376" role="outer"/>
+    <member type="way" ref="24792152" role="outer"/>
+    <member type="node" ref="560483805" role="label"/>
+    <tag k="ref" v="0507"/>
+    <tag k="name" v="Hakenfelde"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Хакенфельде"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q569895"/>
+    <tag k="wikipedia" v="de:Berlin-Hakenfelde"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Berliner Urstromtal"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="32512"/>
+  </relation>
+</osm>

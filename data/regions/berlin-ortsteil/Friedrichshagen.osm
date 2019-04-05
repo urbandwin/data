@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="409210">
+    <member type="node" ref="31222216" role="label"/>
+    <member type="way" ref="44017857" role="outer"/>
+    <member type="way" ref="29412546" role="outer"/>
+    <member type="way" ref="49925135" role="outer"/>
+    <member type="way" ref="44017858" role="outer"/>
+    <member type="way" ref="384925423" role="outer"/>
+    <member type="way" ref="282386717" role="outer"/>
+    <member type="way" ref="282386715" role="outer"/>
+    <member type="way" ref="97159159" role="outer"/>
+    <tag k="ref" v="0911"/>
+    <tag k="name" v="Friedrichshagen"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="name:ru" v="Фридрихсхаген"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q563528"/>
+    <tag k="wikipedia" v="de:Berlin-Friedrichshagen"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Berliner Urstromtal"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="5063"/>
+  </relation>
+</osm>

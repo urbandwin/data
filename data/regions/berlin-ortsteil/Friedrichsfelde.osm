@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="412167">
+    <member type="node" ref="151014537" role="label"/>
+    <member type="way" ref="41424229" role="outer"/>
+    <member type="way" ref="50336556" role="outer"/>
+    <member type="way" ref="271981275" role="outer"/>
+    <member type="way" ref="97458450" role="outer"/>
+    <member type="way" ref="387419552" role="outer"/>
+    <member type="way" ref="271981273" role="outer"/>
+    <member type="way" ref="271981274" role="outer"/>
+    <member type="way" ref="271981271" role="outer"/>
+    <member type="way" ref="50336552" role="outer"/>
+    <member type="way" ref="97458455" role="outer"/>
+    <member type="way" ref="49863777" role="outer"/>
+    <member type="way" ref="42048477" role="outer"/>
+    <tag k="ref" v="1101"/>
+    <tag k="name" v="Friedrichsfelde"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Фридрихсфельде"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="old_name" v="Rosenfelde"/>
+    <tag k="wikidata" v="Q563588"/>
+    <tag k="wikipedia" v="de:Berlin-Friedrichsfelde"/>
+    <tag k="population" v="50000"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="source:population" v="guess"/>
+    <tag k="geographical_region" v="Berliner Urstromtal"/>
+  </relation>
+</osm>

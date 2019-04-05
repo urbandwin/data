@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="408308">
+    <member type="way" ref="185884217" role="outer"/>
+    <member type="way" ref="44020343" role="outer"/>
+    <member type="way" ref="325281708" role="outer"/>
+    <member type="way" ref="325281709" role="outer"/>
+    <member type="way" ref="38333072" role="outer"/>
+    <member type="way" ref="273599898" role="outer"/>
+    <member type="way" ref="273585506" role="outer"/>
+    <member type="way" ref="97855581" role="outer"/>
+    <member type="way" ref="185943945" role="outer"/>
+    <member type="way" ref="38317789" role="outer"/>
+    <member type="way" ref="97855586" role="outer"/>
+    <member type="way" ref="50336550" role="outer"/>
+    <member type="way" ref="38317784" role="outer"/>
+    <member type="way" ref="38317788" role="outer"/>
+    <member type="way" ref="326700616" role="outer"/>
+    <member type="node" ref="331147926" role="label"/>
+    <member type="way" ref="252929824" role="admin_centre"/>
+    <tag k="ref" v="0302"/>
+    <tag k="name" v="Weißensee"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Вайсензе"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q675164"/>
+    <tag k="wikipedia" v="de:Berlin-Weißensee"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Barnim"/>
+  </relation>
+</osm>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="56724">
+    <member type="way" ref="252904411" role="admin_centre"/>
+    <member type="node" ref="159775126" role="label"/>
+    <member type="way" ref="24792152" role="outer"/>
+    <member type="way" ref="28749584" role="outer"/>
+    <member type="way" ref="28732562" role="outer"/>
+    <member type="way" ref="32967106" role="outer"/>
+    <tag k="ref" v="1203"/>
+    <tag k="name" v="Konradshöhe"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Кондрадсхёэ"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q561871"/>
+    <tag k="wikipedia" v="de:Berlin-Konradshöhe"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Berliner Urstromtal"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="32504"/>
+  </relation>
+</osm>

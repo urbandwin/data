@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="55753">
+    <member type="way" ref="69078375" role="outer"/>
+    <member type="way" ref="304760807" role="outer"/>
+    <member type="way" ref="304760792" role="outer"/>
+    <member type="way" ref="304760789" role="outer"/>
+    <member type="way" ref="304760782" role="outer"/>
+    <member type="way" ref="320823298" role="outer"/>
+    <member type="way" ref="329286177" role="outer"/>
+    <member type="way" ref="32968939" role="outer"/>
+    <member type="way" ref="69078372" role="outer"/>
+    <member type="way" ref="69407170" role="outer"/>
+    <member type="way" ref="447352967" role="outer"/>
+    <member type="way" ref="25414820" role="outer"/>
+    <member type="way" ref="25467809" role="outer"/>
+    <member type="way" ref="305236039" role="outer"/>
+    <member type="way" ref="305236037" role="outer"/>
+    <member type="way" ref="305371578" role="outer"/>
+    <member type="way" ref="305371577" role="outer"/>
+    <member type="way" ref="305371580" role="outer"/>
+    <member type="way" ref="305371579" role="outer"/>
+    <member type="way" ref="305371576" role="outer"/>
+    <member type="way" ref="305228555" role="outer"/>
+    <member type="way" ref="25467740" role="outer"/>
+    <member type="way" ref="304760797" role="outer"/>
+    <member type="way" ref="304760786" role="outer"/>
+    <member type="node" ref="1676561741" role="label"/>
+    <member type="way" ref="115947503" role="outer"/>
+    <member type="way" ref="304760811" role="outer"/>
+    <member type="way" ref="304760812" role="outer"/>
+    <member type="way" ref="304760809" role="outer"/>
+    <member type="way" ref="304760813" role="outer"/>
+    <member type="way" ref="304760810" role="outer"/>
+    <member type="way" ref="305236038" role="outer"/>
+    <member type="way" ref="305371571" role="outer"/>
+    <member type="way" ref="305371572" role="outer"/>
+    <member type="way" ref="305371573" role="outer"/>
+    <tag k="ref" v="0705"/>
+    <tag k="name" v="Marienfelde"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="name:ru" v="Мариенфельде"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q695777"/>
+    <tag k="wikipedia" v="de:Berlin-Marienfelde"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Teltow"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="32535"/>
+  </relation>
+</osm>

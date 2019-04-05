@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="408310">
+    <member type="way" ref="246159212" role="outer"/>
+    <member type="way" ref="305341748" role="outer"/>
+    <member type="way" ref="305341744" role="outer"/>
+    <member type="way" ref="305341745" role="outer"/>
+    <member type="way" ref="305341743" role="outer"/>
+    <member type="way" ref="304488111" role="outer"/>
+    <member type="way" ref="38329458" role="outer"/>
+    <member type="way" ref="189438795" role="outer"/>
+    <member type="way" ref="292050664" role="outer"/>
+    <member type="way" ref="38329462" role="outer"/>
+    <member type="way" ref="38329457" role="outer"/>
+    <member type="way" ref="316688851" role="outer"/>
+    <member type="way" ref="316688847" role="outer"/>
+    <member type="way" ref="316688848" role="outer"/>
+    <member type="way" ref="38329456" role="outer"/>
+    <member type="way" ref="38329465" role="outer"/>
+    <member type="way" ref="316688849" role="outer"/>
+    <member type="way" ref="316694941" role="outer"/>
+    <member type="way" ref="316694938" role="outer"/>
+    <member type="way" ref="316694934" role="outer"/>
+    <member type="way" ref="316694937" role="outer"/>
+    <member type="way" ref="316694936" role="outer"/>
+    <member type="way" ref="316694946" role="outer"/>
+    <member type="way" ref="316694940" role="outer"/>
+    <member type="way" ref="316694945" role="outer"/>
+    <member type="way" ref="38329455" role="outer"/>
+    <member type="node" ref="1775453665" role="label"/>
+    <tag k="ref" v="0501"/>
+    <tag k="name" v="Spandau"/>
+    <tag k="type" v="boundary"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Шпандау"/>
+    <tag k="name:uk" v="Шпандау"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q569827"/>
+    <tag k="wikipedia" v="de:Berlin-Spandau"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Berliner Urstromtal"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="4974"/>
+  </relation>
+</osm>

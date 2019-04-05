@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="409203">
+    <member type="way" ref="44016033" role="outer"/>
+    <member type="way" ref="38318545" role="outer"/>
+    <member type="way" ref="271787847" role="outer"/>
+    <member type="way" ref="38317787" role="outer"/>
+    <member type="way" ref="97495042" role="outer"/>
+    <member type="way" ref="97855598" role="outer"/>
+    <member type="way" ref="38317785" role="outer"/>
+    <member type="way" ref="97855586" role="outer"/>
+    <member type="way" ref="50336550" role="outer"/>
+    <member type="node" ref="492310838" role="label"/>
+    <tag k="ref" v="1110"/>
+    <tag k="name" v="Alt-Hohenschönhausen"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Альт-Хоэншёнхаузен"/>
+    <tag k="ref:old" v="1105 ehem. Hohenschönhausen"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q675118"/>
+    <tag k="wikipedia" v="de:Berlin-Alt-Hohenschönhausen"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Barnim"/>
+  </relation>
+</osm>

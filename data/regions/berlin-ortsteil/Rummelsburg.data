@@ -1,0 +1,7 @@
+name:                    Rummelsburg
+osm-relation:            409204
+wikidata:                Q561880
+bezirk:                  Lichtenberg
+neighbors:               Friedrichsfelde, Friedrichshain, Karlshorst, Lichtenberg, Oberschöneweide, Plänterwald
+computed-centroid:       13.491755, 52.497450
+computed-area:           4383077.64

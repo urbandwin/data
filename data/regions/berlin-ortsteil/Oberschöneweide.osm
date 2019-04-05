@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="413421">
+    <member type="node" ref="28795831" role="label"/>
+    <member type="way" ref="50336553" role="outer"/>
+    <member type="way" ref="24216088" role="outer"/>
+    <member type="way" ref="24793703" role="outer"/>
+    <member type="way" ref="25140119" role="outer"/>
+    <member type="way" ref="272645691" role="outer"/>
+    <member type="way" ref="276277695" role="outer"/>
+    <member type="way" ref="44017861" role="outer"/>
+    <tag k="ref" v="0909"/>
+    <tag k="name" v="Oberschöneweide"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="name:ru" v="Обершёневайде"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q644448"/>
+    <tag k="wikipedia" v="de:Berlin-Oberschöneweide"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Berliner Urstromtal"/>
+    <tag k="TMC:cid_58:tabcd_1:Class" v="Area"/>
+    <tag k="TMC:cid_58:tabcd_1:LCLversion" v="9.00"/>
+    <tag k="TMC:cid_58:tabcd_1:LocationCode" v="5131"/>
+  </relation>
+</osm>

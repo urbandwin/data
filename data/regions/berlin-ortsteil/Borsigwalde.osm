@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="2212056">
+    <member type="way" ref="252904411" role="admin_centre"/>
+    <member type="node" ref="159563028" role="label"/>
+    <member type="way" ref="316145116" role="outer"/>
+    <member type="way" ref="316145117" role="outer"/>
+    <member type="way" ref="166019674" role="outer"/>
+    <member type="way" ref="25128554" role="outer"/>
+    <member type="way" ref="166019675" role="outer"/>
+    <tag k="ref" v="1211"/>
+    <tag k="name" v="Borsigwalde"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="suburb"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Борзигвальде"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q795524"/>
+    <tag k="wikipedia" v="de:Berlin-Borsigwalde"/>
+    <tag k="admin_level" v="10"/>
+    <tag k="name:prefix" v="Ortsteil"/>
+    <tag k="geographical_region" v="Berliner Urstromtal"/>
+  </relation>
+</osm>

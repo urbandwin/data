@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6">
+  <relation id="404554">
+    <member type="way" ref="42709613" role="admin_centre"/>
+    <member type="way" ref="460521438" role="outer"/>
+    <member type="way" ref="38318544" role="outer"/>
+    <member type="way" ref="191375282" role="outer"/>
+    <member type="way" ref="97495030" role="outer"/>
+    <member type="way" ref="188569531" role="outer"/>
+    <member type="way" ref="269323291" role="outer"/>
+    <member type="way" ref="50336555" role="outer"/>
+    <member type="way" ref="432785721" role="outer"/>
+    <member type="way" ref="97503997" role="outer"/>
+    <member type="way" ref="24793696" role="outer"/>
+    <member type="way" ref="97215171" role="outer"/>
+    <member type="way" ref="25140119" role="outer"/>
+    <member type="way" ref="272645691" role="outer"/>
+    <member type="way" ref="44021061" role="outer"/>
+    <member type="way" ref="50336557" role="outer"/>
+    <member type="way" ref="97458455" role="outer"/>
+    <member type="way" ref="49863777" role="outer"/>
+    <member type="way" ref="42048477" role="outer"/>
+    <member type="way" ref="50336554" role="outer"/>
+    <member type="way" ref="38318545" role="outer"/>
+    <member type="way" ref="44020342" role="outer"/>
+    <member type="way" ref="44020362" role="outer"/>
+    <member type="way" ref="97173647" role="outer"/>
+    <member type="way" ref="126550973" role="outer"/>
+    <member type="way" ref="50336558" role="outer"/>
+    <member type="way" ref="97855596" role="outer"/>
+    <member type="way" ref="38317791" role="outer"/>
+    <member type="way" ref="38317783" role="outer"/>
+    <member type="way" ref="239996677" role="outer"/>
+    <member type="way" ref="284673756" role="outer"/>
+    <member type="way" ref="97855591" role="outer"/>
+    <member type="way" ref="44020359" role="outer"/>
+    <member type="way" ref="38317784" role="outer"/>
+    <member type="way" ref="50336550" role="outer"/>
+    <member type="way" ref="97855586" role="outer"/>
+    <member type="way" ref="38317789" role="outer"/>
+    <member type="way" ref="49859492" role="outer"/>
+    <member type="way" ref="97503996" role="outer"/>
+    <member type="way" ref="185943941" role="outer"/>
+    <member type="way" ref="269344538" role="outer"/>
+    <member type="way" ref="269344542" role="outer"/>
+    <member type="way" ref="38317790" role="outer"/>
+    <member type="node" ref="1778196330" role="label"/>
+    <tag k="ref" v="11"/>
+    <tag k="name" v="Lichtenberg"/>
+    <tag k="type" v="boundary"/>
+    <tag k="place" v="borough"/>
+    <tag k="source" v="http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+    <tag k="name:ru" v="Лихтенберг"/>
+    <tag k="website" v="http://www.berlin.de/ba-lichtenberg/"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="wikidata" v="Q329609"/>
+    <tag k="addr:city" v="Berlin"/>
+    <tag k="wikipedia" v="de:Bezirk Lichtenberg"/>
+    <tag k="is_in:city" v="Berlin"/>
+    <tag k="population" v="280721"/>
+    <tag k="admin_level" v="9"/>
+    <tag k="description" v="11. Verwaltungsbezirk von Berlin"/>
+    <tag k="is_in:state" v="Berlin"/>
+    <tag k="name:prefix" v="Bezirk"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="is_in:county" v="Berlin"/>
+    <tag k="is_in:region" v="Berlin"/>
+    <tag k="addr:postcode" v="10360"/>
+    <tag k="is_in:country" v="Deutschland"/>
+    <tag k="addr:housename" v="Bezirksamt Lichtenberg von Berlin - Postfach"/>
+    <tag k="is_in:continent" v="Europe"/>
+    <tag k="population:date" v="2016-06-30"/>
+    <tag k="is_in:state_code" v="BE"/>
+    <tag k="source:population" v="https://de.wikipedia.org/wiki/Bezirk_Lichtenberg"/>
+    <tag k="is_in:country_code" v="DE"/>
+    <tag k="geographical_region" v="Barnim"/>
+    <tag k="is_in:country_prefix" v="Bundesrepublik"/>
+  </relation>
+</osm>

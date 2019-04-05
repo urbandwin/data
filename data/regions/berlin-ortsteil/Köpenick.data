@@ -1,0 +1,7 @@
+name:                    Köpenick
+osm-relation:            409209
+wikidata:                Q521521
+bezirk:                  Treptow-Köpenick
+neighbors:               Adlershof, Biesdorf, Friedrichshagen, Grünau, Karlshorst, Kaulsdorf, Mahlsdorf, Müggelheim, Niederschöneweide, Oberschöneweide, Rahnsdorf
+computed-centroid:       13.605087, 52.439729
+computed-area:           34870652.08
