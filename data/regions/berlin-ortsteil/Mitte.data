@@ -5,3 +5,4 @@ bezirk:                  Mitte
 neighbors:               Friedrichshain, Gesundbrunnen, Kreuzberg, Moabit, Prenzlauer Berg, Tiergarten, Wedding
 computed-centroid:       13.397914, 52.521330
 computed-area:           10693243.45
+population:              89757

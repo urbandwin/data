@@ -5,3 +5,4 @@ bezirk:                  Friedrichshain-Kreuzberg
 neighbors:               Alt-Treptow, Friedrichshain, Mitte, Neukölln, Schöneberg, Tempelhof, Tiergarten
 computed-centroid:       13.405171, 52.496784
 computed-area:           10425966.41
+population:              153887

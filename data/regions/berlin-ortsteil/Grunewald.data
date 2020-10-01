@@ -5,3 +5,4 @@ bezirk:                  Charlottenburg-Wilmersdorf
 neighbors:               Charlottenburg, Dahlem, Gatow, Halensee, Nikolassee, Schmargendorf, Westend, Wilhelmstadt, Zehlendorf
 computed-centroid:       13.235481, 52.485368
 computed-area:           22325469.26
+population:              10371

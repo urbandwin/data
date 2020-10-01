@@ -5,3 +5,4 @@ bezirk:                  Friedrichshain-Kreuzberg
 neighbors:               Alt-Treptow, Kreuzberg, Lichtenberg, Mitte, Plänterwald, Prenzlauer Berg, Rummelsburg
 computed-centroid:       13.452410, 52.511234
 computed-area:           9894932.03
+population:              125169

@@ -5,3 +5,4 @@ bezirk:                  Mitte
 neighbors:               Charlottenburg, Charlottenburg-Nord, Hansaviertel, Mitte, Tiergarten, Wedding
 computed-centroid:       13.343282, 52.529356
 computed-area:           7703523.24
+population:              77344

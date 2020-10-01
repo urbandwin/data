@@ -5,3 +5,4 @@ bezirk:                  Spandau
 neighbors:               Gatow, Grunewald, Spandau, Staaken, Westend
 computed-centroid:       13.190115, 52.514541
 computed-area:           10429256.58
+population:              40536

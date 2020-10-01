@@ -5,3 +5,4 @@ bezirk:                  Mitte
 neighbors:               Charlottenburg, Moabit, Tiergarten
 computed-centroid:       13.341795, 52.518541
 computed-area:           529404.59
+population:              5689

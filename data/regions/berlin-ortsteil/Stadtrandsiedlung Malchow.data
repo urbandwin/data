@@ -5,3 +5,4 @@ bezirk:                  Pankow
 neighbors:               Blankenburg, Heinersdorf, Karow, Malchow, Neu-Hohenschönhausen, Wartenberg, Weißensee
 computed-centroid:       13.478115, 52.582987
 computed-area:           5708622.97
+population:              1120
