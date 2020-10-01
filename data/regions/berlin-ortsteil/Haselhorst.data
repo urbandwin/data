@@ -1,5 +1,6 @@
 name:                    Haselhorst
 osm-relation:            407714
+wikidata:                Q266024
 bezirk:                  Spandau
 neighbors:               Hakenfelde, Siemensstadt, Spandau, Tegel
 computed-centroid:       13.229793, 52.545319
